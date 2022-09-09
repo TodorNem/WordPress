@@ -1,0 +1,14 @@
+{
+	"require": {
+		"webdevstudios/cmb2": "^2.2",
+		"composer/installers": "^1.5"
+	},
+	"extra": {
+		"installer-paths": {
+			"vendor/{$name}": ["webdevstudios/cmb2"]
+		}
+	},
+	"require-dev": {
+		"phpunit/phpunit": "^6"
+	}
+}

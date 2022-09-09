@@ -1,0 +1,28 @@
+#uacf7-new-entry {
+    display: none
+}
+.uacf7-conditional-fields .uacf7-field {
+	height: 28px !important;
+    margin-right: 5px;
+}
+.uacf7-conditional-fields .uacf7-remove {
+	border: 1px solid #a00;
+	margin-left: 10px;
+    background-color: #a00
+}
+.uacf7-conditional-fields .uacf7-remove:hover {
+    color: #a00;
+	background-color: #fff;
+    border-color: #a00;
+}
+.uacf7-conditional-fields .uacf7-remove:focus {
+    color: #a00;
+	background-color: #fff;
+    border-color: #a00;
+}
+#uacf7-new-cf {
+	margin-top: 10px;
+}
+.uacf7-conditions-wraper {
+	margin-bottom: 5px;
+}

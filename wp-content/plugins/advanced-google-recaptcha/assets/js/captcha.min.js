@@ -1,0 +1,1 @@
+function agr_load(){for(var e=document.getElementsByClassName("agr-recaptcha-wrapper"),a=0;a<e.length;a++)grecaptcha.render(e.item(a),{sitekey:agrRecaptcha.site_key})}function agr_v3(){grecaptcha.execute(agrRecaptcha.site_key,{action:"validate_recaptchav3"}).then(function(a){document.querySelectorAll(".g-recaptcha-response").forEach(function(e){e.value=a})})}

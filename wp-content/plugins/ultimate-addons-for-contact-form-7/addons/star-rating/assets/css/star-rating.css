@@ -1,0 +1,69 @@
+.uacf7-rating {
+	display: inline-block;
+	position: relative;
+	height: 30px;
+	line-height: 30px;
+	font-size: 30px;
+}
+
+.uacf7-rating label {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	cursor: pointer;
+	line-height: 30px;
+	font-size: 30px;
+	outline: 0;
+	width: auto !important;
+}
+
+.uacf7-rating label:last-child {
+	position: static;
+}
+
+.uacf7-rating label:nth-child(1) {
+	z-index: 5;
+}
+
+.uacf7-rating label:nth-child(2) {
+	z-index: 4;
+}
+
+.uacf7-rating label:nth-child(3) {
+	z-index: 3;
+}
+
+.uacf7-rating label:nth-child(4) {
+	z-index: 2;
+}
+
+.uacf7-rating label:nth-child(5) {
+	z-index: 1;
+}
+
+.uacf7-rating label input {
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0;
+}
+
+.uacf7-rating label .icon {
+	color: transparent;
+}
+
+.uacf7-rating label:last-child .icon {
+	color: #aeaeae;
+}
+
+.uacf7-rating:not(:hover) label input:checked ~ .icon,
+.uacf7-rating:hover label:hover input ~ .icon {
+	color: #F1C100 !important;
+	outline: 0
+}
+
+.uacf7-rating label input:focus:not(:checked) ~ .icon:last-child {
+	color: #aeaeae;
+	text-shadow: 0 0 5px #f1c40f;
+}

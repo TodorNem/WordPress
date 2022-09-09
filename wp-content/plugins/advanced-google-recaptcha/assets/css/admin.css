@@ -1,0 +1,75 @@
+.tab-wrapper .tabs-nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-bottom: 1px solid #c3c4c7;
+}
+.tab-wrapper .tabs-nav li {
+  margin-right: 10px;
+  margin-bottom: 0;
+  background: #dcdcde;
+  border: 1px solid #c3c4c7;
+  border-bottom: none;
+}
+.tab-wrapper .tabs-nav li.tab-active a {
+  background-color: #f0f0f1;
+  color: #000;
+  margin-bottom: -1px;
+  border-bottom: 1px solid #f0f0f1;
+}
+.tab-wrapper .tabs-nav li a {
+  text-decoration: none;
+  padding: 5px 10px;
+  color: #444;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  font-weight: 500;
+}
+.tab-wrapper .tabs-nav li:hover,
+.tab-wrapper .tabs-nav li a:hover {
+  background-color: #fff;
+}
+.tab-wrapper .tabs-nav li:hover a {
+  color: #3c434a;
+}
+.tab-wrapper .tabs-nav li.tab-active:hover, .tab-wrapper .tabs-nav li.tab-active a:hover {
+  background-color: transparent;
+}
+
+#poststuff h2 {
+  font-size: 18px;
+  padding-left: 0;
+  border-bottom: 1px #DDD solid;
+  margin-bottom: 10px;
+}
+
+.postbox table.form-table {
+  margin-bottom: 20px;
+}
+
+.form-table th {
+  font-weight: 500;
+}
+
+.form-table tr.enable_comment_form,
+.form-table tr.enable_woo_login,
+.form-table tr.enable_edd_login {
+  border-bottom: 1px #DDD solid;
+}
+
+.postbox-container {
+  margin-top: 69px;
+}
+
+#post-body-content .postbox .inside ul {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.tabs-stage .ui-sortable {
+  display: none;
+}
+.tabs-stage .ui-sortable.active {
+  display: block;
+}

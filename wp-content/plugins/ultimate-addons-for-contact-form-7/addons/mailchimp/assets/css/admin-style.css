@@ -1,0 +1,20 @@
+.status-title,
+.status-details {
+    display: block;
+    margin-top: 5px;
+}
+
+.status-success {
+    color: rgb(0, 200, 0);
+}
+.status-error {
+    color: rgb(255, 15, 15);
+}
+#uacf7_mailchimp_api_key {
+	min-width: 315px;
+	padding: 6px 10px;
+}
+.mailchimp_fields_row table td label {
+	min-width: 230px;
+	display: inline-block;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ernilambar/wp-admin-notice",
+  "description": "WordPress Helper for showing admin notice",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Nilambar Sharma",
+      "email": "nilambar@outlook.com",
+      "homepage": "https://www.nilambar.net/"
+    }
+  ],
+  "keywords": ["wordpress", "admin", "notice"],
+  "homepage" : "https://github.com/ernilambar/wp-admin-notice",
+  "support": {
+    "issues": "https://github.com/ernilambar/wp-admin-notice/issues/"
+  },
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nilambar\\AdminNotice\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}

@@ -1,0 +1,8 @@
+# The beauty of this trick is that ServerSignature is available in core.
+# (it requires no modules and cannot easily be made forbidden)
+# However, it requires PHP to check for the effect
+
+ServerSignature Off
+<IfModule mod_mime.c>
+ServerSignature On
+</IfModule>

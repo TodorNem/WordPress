@@ -1,0 +1,9 @@
+.uacf7_redirect_to_page,
+.uacf7_redirect_to_url {
+	margin-bottom: 20px
+}
+
+.uacf7_default_redirect_wraper,
+.uacf7_conditional_redirect_wraper {
+    margin: 20px 0 !important;
+}

@@ -1,0 +1,238 @@
+@font-face {
+	font-family: "Roboto";
+	font-weight: 100;
+	font-style: normal;
+	src: local('Roboto Thin'), local('Roboto-Thin'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1MmgVxIIzIXKMny.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1MmgVxIIzQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 100;
+	font-style: italic;
+	src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOiCnqEu92Fr1Mu51QrEzAdKQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 300;
+	font-style: normal;
+	src: local('Roboto Light'), local('Roboto-Light'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmSU5fBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 300;
+	font-style: italic;
+	src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TjASc6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Roboto'), local('Roboto-Regular'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOmCnqEu92Fr1Mu4mxM.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 400;
+	font-style: italic;
+	src: local('Roboto Italic'), local('Roboto-Italic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1Mu51xIIzQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 500;
+	font-style: normal;
+	src: local('Roboto Medium'), local('Roboto-Medium'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmEU9fBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 500;
+	font-style: italic;
+	src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51S7ACc6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Roboto Bold'), local('Roboto-Bold'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmWUlfBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 700;
+	font-style: italic;
+	src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TzBic6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 900;
+	font-style: normal;
+	src: local('Roboto Black'), local('Roboto-Black'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmYUtfBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 900;
+	font-style: italic;
+	src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TLBCc6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 100;
+	font-style: normal;
+	src: local('Roboto Slab Thin'), local('RobotoSlab-Thin'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/BngOUXZYTXPIvIBgJJSb6u-u1qeh5DKAc_g.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/BngOUXZYTXPIvIBgJJSb6u-u1qeh4g.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 300;
+	font-style: normal;
+	src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u9mxLCGwR2oefDo.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u9mxLCGwRs.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/BngMUXZYTXPIvIBgJJSb6ufN5qM.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u92w7CGwR2oefDo.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u92w7CGwRs.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 100;
+	font-style: normal;
+	src: local('Barlow Thin'), local('Barlow-Thin'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHrv4kjgoGqM7E3b_s7wH8Dnzcj.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHrv4kjgoGqM7E3b_s7wHk.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 100;
+	font-style: italic;
+	src: local('Barlow Thin Italic'), local('Barlow-ThinItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHtv4kjgoGqM7E_CfNY8H0JmBUhfrE.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHtv4kjgoGqM7E_CfNY8H0Jng.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 200;
+	font-style: normal;
+	src: local('Barlow ExtraLight'), local('Barlow-ExtraLight'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3w-os51ostz0rdg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3w-os51oq.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 200;
+	font-style: italic;
+	src: local('Barlow ExtraLight Italic'), local('Barlow-ExtraLightItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfP04WouvToJdLm8.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfP04WouvTw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 300;
+	font-style: normal;
+	src: local('Barlow Light'), local('Barlow-Light'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3p-ks51ostz0rdg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3p-ks51oq.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 300;
+	font-style: italic;
+	src: local('Barlow Light Italic'), local('Barlow-LightItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfOQ4mouvToJdLm8.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfOQ4mouvTw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Barlow Regular'), local('Barlow-Regular'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHpv4kjgoGqM7E_DMs5ynghnQ.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHpv4kjgoGqM7E_DMs_.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 400;
+	font-style: italic;
+	src: local('Barlow Italic'), local('Barlow-Italic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHrv4kjgoGqM7E_Cfs7wH8Dnzcj.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHrv4kjgoGqM7E_Cfs7wHk.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 500;
+	font-style: normal;
+	src: local('Barlow Medium'), local('Barlow-Medium'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3_-gs51ostz0rdg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3_-gs51oq.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 500;
+	font-style: italic;
+	src: local('Barlow Medium Italic'), local('Barlow-MediumItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfPI42ouvToJdLm8.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfPI42ouvTw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 600;
+	font-style: normal;
+	src: local('Barlow SemiBold'), local('Barlow-SemiBold'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E30-8s51ostz0rdg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E30-8s51oq.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 600;
+	font-style: italic;
+	src: local('Barlow SemiBold Italic'), local('Barlow-SemiBoldItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfPk5GouvToJdLm8.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfPk5GouvTw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Barlow Bold'), local('Barlow-Bold'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3t-4s51ostz0rdg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3t-4s51oq.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 700;
+	font-style: italic;
+	src: local('Barlow Bold Italic'), local('Barlow-BoldItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfOA5WouvToJdLm8.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfOA5WouvTw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 800;
+	font-style: normal;
+	src: local('Barlow ExtraBold'), local('Barlow-ExtraBold'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3q-0s51ostz0rdg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3q-0s51oq.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 800;
+	font-style: italic;
+	src: local('Barlow ExtraBold Italic'), local('Barlow-ExtraBoldItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfOc5mouvToJdLm8.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfOc5mouvTw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 900;
+	font-style: normal;
+	src: local('Barlow Black'), local('Barlow-Black'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3j-ws51ostz0rdg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHqv4kjgoGqM7E3j-ws51oq.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Barlow";
+	font-weight: 900;
+	font-style: italic;
+	src: local('Barlow Black Italic'), local('Barlow-BlackItalic'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfO452ouvToJdLm8.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/digitel/wp-content/uploads/sgf-css/7cHsv4kjgoGqM7E_CfO452ouvTw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
