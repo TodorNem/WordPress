@@ -1,0 +1,182 @@
+@font-face {
+	font-family: "Roboto";
+	font-weight: 100;
+	font-style: normal;
+	src: local('Roboto Thin'), local('Roboto-Thin'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1MmgVxIIzIXKMny.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1MmgVxIIzQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 100;
+	font-style: italic;
+	src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOiCnqEu92Fr1Mu51QrEzAdKQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 300;
+	font-style: normal;
+	src: local('Roboto Light'), local('Roboto-Light'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmSU5fBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 300;
+	font-style: italic;
+	src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TjASc6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Roboto'), local('Roboto-Regular'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOmCnqEu92Fr1Mu4mxM.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 400;
+	font-style: italic;
+	src: local('Roboto Italic'), local('Roboto-Italic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1Mu51xIIzQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 500;
+	font-style: normal;
+	src: local('Roboto Medium'), local('Roboto-Medium'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmEU9fBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 500;
+	font-style: italic;
+	src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51S7ACc6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Roboto Bold'), local('Roboto-Bold'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmWUlfBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 700;
+	font-style: italic;
+	src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TzBic6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 900;
+	font-style: normal;
+	src: local('Roboto Black'), local('Roboto-Black'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmYUtfBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 900;
+	font-style: italic;
+	src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TLBCc6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 100;
+	font-style: normal;
+	src: local('Roboto Slab Thin'), local('RobotoSlab-Thin'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/BngOUXZYTXPIvIBgJJSb6u-u1qeh5DKAc_g.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/BngOUXZYTXPIvIBgJJSb6u-u1qeh4g.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 300;
+	font-style: normal;
+	src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u9mxLCGwR2oefDo.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u9mxLCGwRs.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/BngMUXZYTXPIvIBgJJSb6ufN5qM.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u92w7CGwR2oefDo.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u92w7CGwRs.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 300;
+	font-style: normal;
+	src: local('Open Sans Light'), local('OpenSans-Light'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN_r8OUuhpKKSTjw.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN_r8OUuhv.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 300;
+	font-style: italic;
+	src: local('Open Sans Light Italic'), local('OpenSans-LightItalic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/memnYaGs126MiZpBA-UFUKWyV9hrIqOxjaPX.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/memnYaGs126MiZpBA-UFUKWyV9hrIqU.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem8YaGs126MiZpBA-UFVZ0d.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 400;
+	font-style: italic;
+	src: local('Open Sans Italic'), local('OpenSans-Italic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem6YaGs126MiZpBA-UFUK0Zdc1GAK6b.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem6YaGs126MiZpBA-UFUK0Zdcs.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 600;
+	font-style: normal;
+	src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UNirkOUuhpKKSTjw.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UNirkOUuhv.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 600;
+	font-style: italic;
+	src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/memnYaGs126MiZpBA-UFUKXGUdhrIqOxjaPX.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/memnYaGs126MiZpBA-UFUKXGUdhrIqU.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN7rgOUuhpKKSTjw.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN7rgOUuhv.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 700;
+	font-style: italic;
+	src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/memnYaGs126MiZpBA-UFUKWiUNhrIqOxjaPX.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/memnYaGs126MiZpBA-UFUKWiUNhrIqU.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 800;
+	font-style: normal;
+	src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN8rsOUuhpKKSTjw.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/mem5YaGs126MiZpBA-UN8rsOUuhv.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 800;
+	font-style: italic;
+	src: local('Open Sans ExtraBold Italic'), local('OpenSans-ExtraBoldItalic'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/memnYaGs126MiZpBA-UFUKW-U9hrIqOxjaPX.woff2) format('woff2'), url(//ntodorovic.wppsbootcamp.com/portfolio/wp-content/uploads/sgf-css/memnYaGs126MiZpBA-UFUKW-U9hrIqU.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}

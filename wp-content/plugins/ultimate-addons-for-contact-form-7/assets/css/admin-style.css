@@ -1,0 +1,444 @@
+/* Style the uacf7-tab */
+.contact_page_ultimate-addons #wpcontent {
+    background: #fff;
+}
+
+.uacf7-admin-cont {
+    padding: 25px 20px 35px;
+    background-color: #fff;
+}
+
+.wrap.uacf7-admin-cont h1 {
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+.wrap.uacf7-admin-cont .sub-head {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.uacf7-tab {
+	overflow: hidden;
+	border: 1px solid #ccc;
+	background-color: #382673;
+	border-bottom: 0
+}
+
+.uacf7-tab a {
+	background-color: inherit;
+	float: left;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	transition: 0.3s;
+	font-size: 17px;
+	color: #fff;
+	border-right: 1px solid #fff
+}
+
+.uacf7-tab a:last-child {
+	border-right: 0
+}
+
+.uacf7-tab a:hover {
+	background-color: #fff;
+	color: #444
+}
+
+.uacf7-tab a.active {
+	background-color: #fff;
+	color: #444
+}
+
+/* Style the uacf7-tab content */
+.uacf7-tabcontent {
+	display: none;
+	padding: 15px;
+	border: 1px solid #ccc;
+	border-top: none;
+	background-color: #fff
+}
+
+.uacf7-tabcontent .form-table {
+	margin-left: 15px
+}
+
+.uacf7-tabcontent h2 {
+    font-size: 25px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+    margin-left: 15px;
+    color: #361a94;
+}
+
+.uacf7-tabcontent input#submit {
+    margin-left: 15px;
+    background: #382673;
+    padding: 6px 40px;
+    font-size: 17px;
+}
+
+.uacf7-tabcontent input#submit:hover {
+    background: #181031;
+}
+
+.uacf7-post-sub-pro-link a, .uacf7-repeater-field a, .uacf7-ip-get-field a, .uacf7-pro-link a {
+    text-decoration: none;
+	margin-left: 10px;
+}
+
+.uacf7-post-sub-pro-link a:hover, .uacf7-repeater-field a:hover, .uacf7-ip-get-field a:hover, .uacf7-pro-link a:hover {
+    color: #333!important;
+}
+
+.uacf7-tabcontent .form-table th {
+    font-size: 18px;
+    padding-bottom: 28px;
+    padding-top: 28px;
+}
+
+.multistep_fields_row {
+	width: 100%;
+	display: inline-block;
+	padding: 15px 0 15px 15px;
+	background: #fff;
+	margin-top: 12px;
+	clear: both;
+}
+
+.col-25 .multistep_field_column {
+	width: 25%;
+	float: left;
+	display: inline-block
+}
+
+.col-50 .multistep_field_column {
+	width: 50%;
+	float: left;
+	display: inline-block
+}
+
+.show-if-left-progressbar button,
+.show-if-style-6 button,
+.show-if-pro button {
+	pointer-events: none
+}
+
+/** Documentation Tab CSS **/
+.tfic-docs-wrap .tfic-row {
+    display: flex;
+    margin: 30px 0
+}
+.tfic-docs-wrap .sub-heading {
+    font-size: 15px;
+}
+.tfic-single-docs {
+    margin-right: 20px;
+    flex-basis: 100%;
+    background: #fff;
+    background-color: #fff;
+    border-radius: 0.35em;
+    padding: 30px;
+    border: 1px solid #d5d5d5;
+}
+
+.tfic-single-docs span {
+    font-size: 13px;
+    background: green;
+    color: #fff;
+    padding: 2px 5px;
+    border-radius: 4px;
+    float: right;
+}
+
+.tfic-single-docs span.uacf7-pro {
+    background: #b60020;
+}
+
+.tfic-single-docs h4 {
+    font-size: 23px;
+    margin: 0;
+	line-height: 1.35;
+}
+
+/** Button css **/
+.tfic-btn  {
+    border: 1px solid #382673;
+    border-radius: 4px;
+    color: #fff;
+    background: #382673;
+    text-decoration: none;
+    padding:10px 20px;
+    display: inline-block;
+    margin-top:10px;
+    margin-right: 12px;
+    text-align: center;
+}
+.demo-btn {
+    background: #fff;
+    color: #382673;
+}
+.tfic-active {
+    background:#ccc;
+    color:#000;
+    border: 1px solid #ccc;
+}
+.tfic-btn:hover  {
+    border: 1px solid #100058;
+    background: #100058;
+    color:#fff;
+}
+.tfic-active:hover {
+    background:#ccc;
+    color:#000;
+    border: 1px solid #ccc;
+}
+
+/** Admin Toggle CSS **/
+.uacf7-admin-toggle {
+    display: inline-block;
+}
+  .uacf7-admin-toggle:last-of-type {
+	margin: 0;
+  }
+  
+  .uacf7-admin-toggle__input {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
+ 
+  .uacf7-admin-toggle-track {
+    background: #fff;
+    border: 2px solid #777f92;
+    border-radius: 100px;
+    cursor: pointer;
+    display: flex;
+    height: 28px;
+    position: relative;
+    width: 60px;
+  }
+  
+  
+  .uacf7-admin-toggle-indicator {
+    align-items: center;
+    background: #777f92;
+    border-radius: 24px;
+    bottom: 2px;
+    display: flex;
+    height: 24px;
+    justify-content: center;
+    left: 2px;
+    outline: solid 2px transparent;
+    position: absolute;
+    transition: 0.25s;
+    width: 24px;
+  }
+  
+  .checkMark {
+    fill: #fff;
+    height: 20px;
+    width: 20px;
+    opacity: 0;
+    transition: opacity 0.25s ease-in-out;
+  }
+  
+  .uacf7-admin-toggle__input:checked + .uacf7-admin-toggle-track .uacf7-admin-toggle-indicator {
+    background: #06af00;
+    transform: translateX(30px);
+  }
+ 
+  .uacf7-admin-toggle__input:checked + .uacf7-admin-toggle-track {
+	  border: 2px solid #06af00;
+  }
+  .uacf7-admin-toggle-track:hover, .uacf7-admin-toggle__input:checked + .uacf7-admin-toggle-track:hover {
+	  opacity: 0.75;
+  }
+  .uacf7-admin-toggle__input:checked + .uacf7-admin-toggle-track .uacf7-admin-toggle-indicator .checkMark {
+    opacity: 1;
+    transition: opacity 0.25s ease-in-out;
+  }
+
+  /** Addon Tabs **/
+  #uacf7-repeater-panel-tab,
+  #uacf7-redirect-panel-tab, 
+  #uacf7-cf-panel-tab, 
+  #uacf7-placeholder-panel-tab, 
+  #uacf7-multistep-panel-tab, 
+  #uacf7-uacf7style-panel-tab, 
+  #uacf7-range-slider-panel-tab,
+  #uacf7-auto-product-cart-panel-tab,
+  #uacf7-post-submission-panel-tab,
+  #uacf7-pre-populate-panel-tab,
+  #uacf7-mailchimp-panel-tab {
+    border: 2px solid #473080!important;
+    background: #fff!important;
+  }
+
+  #uacf7-repeater-panel-tab a, 
+  #uacf7-redirect-panel-tab a, 
+  #uacf7-cf-panel-tab a, 
+  #uacf7-placeholder-panel-tab a, 
+  #uacf7-multistep-panel-tab a, 
+  #uacf7-uacf7style-panel-tab a, 
+  #uacf7-range-slider-panel-tab a,
+  #uacf7-auto-product-cart-panel-tab a,
+  #uacf7-pre-populate-panel-tab a,
+  #uacf7-post-submission-panel-tab a {  
+    font-weight: bold!important;
+    color: #473080!important;
+  }
+  
+  #uacf7-repeater-panel-tab:hover, 
+  #uacf7-redirect-panel-tab:hover, 
+  #uacf7-cf-panel-tab:hover, 
+  #uacf7-placeholder-panel-tab:hover, 
+  #uacf7-multistep-panel-tab:hover, 
+  #uacf7-uacf7style-panel-tab:hover, 
+  #uacf7-range-slider-panel-tab:hover,
+  #uacf7-auto-product-cart-panel-tab:hover,
+  #uacf7-post-submission-panel-tab:hover, 
+  #uacf7-mailchimp-panel-tab:hover {
+    border: 2px solid #281266!important;
+    background: #281266!important;
+  }
+
+  #uacf7-repeater-panel-tab:hover a,
+  #uacf7-redirect-panel-tab:hover a,
+  #uacf7-cf-panel-tab:hover a, 
+  #uacf7-placeholder-panel-tab:hover a, 
+  #uacf7-multistep-panel-tab:hover a, 
+  #uacf7-uacf7style-panel-tab:hover a, 
+  #uacf7-range-slider-panel-tab:hover a,
+  #uacf7-auto-product-cart-panel-tab:hover a,
+  #uacf7-post-submission-panel-tab:hover a,
+  #uacf7-redirect-panel-tab.ui-tabs-active a, 
+ #uacf7-cf-panel-tab.ui-tabs-active a, 
+ #uacf7-placeholder-panel-tab.ui-tabs-active a, 
+ #uacf7-multistep-panel-tab.ui-tabs-active a, 
+ #uacf7-uacf7style-panel-tab.ui-tabs-active a, 
+ #uacf7-range-slider-panel-tab.ui-tabs-active a,
+ #uacf7-auto-product-cart-panel-tab.ui-tabs-active a,
+ #uacf7-mailchimp-panel-tab.ui-tabs-active a,
+ #uacf7-pre-populate-panel-tab.ui-tabs-active a,
+ #uacf7-post-submission-panel-tab.ui-tabs-active a {
+    color: #fff!important;
+  }
+
+ /** Addon Tabs **/
+ #uacf7-repeater-panel-tab.ui-tabs-active, 
+ #uacf7-redirect-panel-tab.ui-tabs-active, 
+ #uacf7-cf-panel-tab.ui-tabs-active, 
+ #uacf7-placeholder-panel-tab.ui-tabs-active, 
+ #uacf7-multistep-panel-tab.ui-tabs-active, 
+ #uacf7-uacf7style-panel-tab.ui-tabs-active, 
+ #uacf7-range-slider-panel-tab.ui-tabs-active,
+ #uacf7-auto-product-cart-panel-tab.ui-tabs-active,
+ #uacf7-post-submission-panel-tab.ui-tabs-active,
+ #uacf7-pre-populate-panel-tab.ui-tabs-active,
+ #uacf7-mailchimp-panel-tab.ui-tabs-active {
+   border: 2px solid #473080!important;
+   background: #473080!important;
+ }
+
+
+/** Addon Tab Inner **/
+#uacf7-redirect-panel, 
+#uacf7-repeater-panel, 
+#uacf7-auto-product-cart-panel, 
+#uacf7-bf-panel, 
+#uacf7-cf-panel, 
+#uacf7-placeholder-panel, 
+#uacf7-multistep-panel, 
+#uacf7-uacf7style-panel, 
+#uacf7-range-slider-panel, 
+#uacf7-pre-populate-panel, 
+#uacf7-post-submission-panel {
+  background: #fff!important;
+  padding: 20px 50px 50px!important;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+#uacf7-repeater-panel h2, 
+#uacf7-redirect-panel h2, 
+#uacf7-auto-product-cart-panel h2, 
+#uacf7-bf-panel h2, 
+#uacf7-cf-panel h2, 
+#uacf7-placeholder-panel h2, 
+#uacf7-multistep-panel h2, 
+#uacf7-uacf7style-panel h2, 
+#uacf7-range-slider-panel h2, 
+#uacf7-post-submission-panel h2,
+#uacf7-pre-populate-panel h2,
+#uacf7-mailchimp-panel-tab h2 {
+  font-size: 20px!important;
+  font-weight: 600!important;
+  line-height: 1.5!important;
+}
+
+#uacf7-repeater-panel p, 
+#uacf7-redirect-panel p, 
+#uacf7-auto-product-cart-panel p, 
+#uacf7-bf-panel p, 
+#uacf7-cf-panel p, 
+#uacf7-placeholder-panel p, 
+#uacf7-multistep-panel p, 
+#uacf7-uacf7style-panel p, 
+#uacf7-range-slider-panel p, 
+#uacf7-post-submission-panel p,
+#uacf7-pre-populate-panel p,
+#uacf7-mailchimp-panel-tab p {
+  font-size: 16px!important;
+  line-height: 1.5!important;
+}
+
+.uacf7-doc-notice {
+  background: #e3f3ff;
+  margin-top: 25px;
+  font-size: 14px;
+  padding: 10px 20px 15px;
+  border-radius: 3px;
+  margin-bottom: 25px;
+}
+
+.uacf7-guide {
+  background: #ffd7c287;
+}
+
+.uacf7-doc-notice a {
+  text-decoration: none;
+  color: #473080;
+  font-weight: bold;
+}
+
+.uacf7-doc-notice a:hover {
+  color: #000;
+}
+
+.uacf7-doc-notice:before {
+  content: "\f14c";
+  font-family: dashicons;
+  font-size: 18px;
+  padding-right: 8px;
+}
+
+.uacf7-guide:before {
+  content: "\f130";
+  font-family: dashicons;
+  font-size: 18px;
+  padding-right: 8px;
+}
+
+  @media screen and (-ms-high-contrast: active) {
+	.uacf7-admin-toggle-track {
+	  border-radius: 0;
+	}
+  }

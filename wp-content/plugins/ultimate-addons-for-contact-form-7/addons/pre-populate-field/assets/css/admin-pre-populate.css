@@ -1,0 +1,8 @@
+#uacf7-pre-populate-panel #data_redirect_url, #uacf7-pre-populate-panel #pre_populate_form {
+	width: 100%;
+	padding: 8px;
+}
+.uacf7-remove-data-shift {
+	background-color: #a00 !important;
+	border-color: #a00 !important;
+}

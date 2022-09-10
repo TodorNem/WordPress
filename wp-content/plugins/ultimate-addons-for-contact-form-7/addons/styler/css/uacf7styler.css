@@ -1,0 +1,59 @@
+.clear {
+    clear: both;
+}
+
+.ultimate-uacf7style-admin span {
+    font-weight: bold;
+}
+
+.ultimate-uacf7style-admin h3 {
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+.ultimate-uacf7style-admin .uacf7style-columns {
+    width:49%;
+    margin-right: 1%;
+    float: left;
+}
+
+.ultimate-uacf7style-admin .uacf7style-fourcolumns {
+    width:24%;
+    margin-right: 1%;
+    float: left;
+}
+
+.ultimate-uacf7style-admin .uacf7style-fivecolumns {
+    width:19%;
+    margin-right: 1%;
+    float: left;
+}
+
+
+.ultimate-uacf7style-wrapper {
+    background: #fff;
+    padding: 5px 30px 15px;
+    margin: 15px auto;
+    border: 1px solid #ccc;
+}
+
+.four-input input {
+    width: 23%;
+    margin-right: 1%;
+}
+
+.ultimate-uacf7style-admin select {
+    width: 100%;
+    max-width: 100%;
+}
+
+.ultimate-uacf7style-admin textarea {
+    min-height: 100px;
+}
+
+@media only screen and (max-width: 480px) {
+    .ultimate-uacf7style-admin .uacf7style-columns {
+        width:100%;
+        margin-right: 0%;
+    }
+}

@@ -1,0 +1,5 @@
+/*Country filed styles*/
+#uacf7_country_select .country-select .wpcf7-uacf7_country_dropdown,
+#uacf7_country_select .country-select {
+	width: 100%
+}

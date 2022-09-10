@@ -1,0 +1,37 @@
+.uacf7_code {
+	background: #ddd
+}
+.uacf7-column-select {
+	margin-bottom: 10px !important;
+	display: block;
+	cursor: pointer;
+	border: 1px solid transparent;
+	padding: 5px;
+}
+.uacf7-column-button {
+	border: 1px dotted green !important;
+	margin-top: 15px !important;
+	display: block !important;
+	color: green !important;
+	text-align: center
+}
+.uacf7-column-select.example-active {
+	border: 1px solid green;
+}
+.uacf7-column-insert-box {
+	display: none
+}
+.control-box.uacf7-column-control-box {
+	height: 100%;
+	overflow: unset;
+}
+.column-width {
+	display: inline-block;
+	padding: 5px;
+	margin-bottom: 10px
+}
+.column-width-wraper .remove-column {
+	color: red;
+	cursor: pointer;
+	font-size: 15px
+}

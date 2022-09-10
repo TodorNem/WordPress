@@ -1,0 +1,216 @@
+[2022-08-19 21:23:15 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-08-19 21:23:15 : INFO] - 
+ 
+[2022-08-19 21:23:15 : INFO] - Header for logs at time:  Fri, 19 Aug 2022 21:23:15 +0000 on https://ntodorovic.wppsbootcamp.com/portfolio 
+[2022-08-19 21:23:15 : INFO] - WP: 6.0.1 
+[2022-08-19 21:23:15 : INFO] - PHP: 8.0.22 (fpm-fcgi, Linux 190.62.205.92.host.secureserver.net 3.10.0-1160.76.1.el7.x86_64 #1 SMP Wed Aug 10 16:21:17 UTC 2022 x86_64) 
+[2022-08-19 21:23:15 : INFO] - MySQL: 5.7.39 
+[2022-08-19 21:23:15 : INFO] - WPLANG: en_US 
+[2022-08-19 21:23:15 : INFO] - Server: Apache 
+[2022-08-19 21:23:15 : INFO] - Outbound connections: N 
+[2022-08-19 21:23:15 : INFO] - safe_mode: 0 
+[2022-08-19 21:23:15 : INFO] - max_execution_time: 180 
+[2022-08-19 21:23:15 : INFO] - memory_limit: 128M (used: 13.1M | 14M) 
+[2022-08-19 21:23:15 : INFO] - multisite: N 
+[2022-08-19 21:23:15 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2022-08-19 21:23:15 : INFO] - A total of 10 tasks of type smush found and will be processed in this iteration 
+[2022-08-19 21:23:15 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-08-19 21:23:15 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-08-19 21:23:15 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-08-19 21:23:15 : INFO] - Re_Smush_It_Task - Attachment ID : 246, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:15 : INFO] - 75 
+[2022-08-19 21:23:15 : INFO] - Backing up the original image - 2022/08/IMG_20220513_135920-01-removebg-preview-updraft-pre-smush-original.png 
+[2022-08-19 21:23:15 : INFO] - Re_Smush_It_Task - Attachment ID : 246, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:15 : INFO] - 75 
+[2022-08-19 21:23:16 : INFO] - Re_Smush_It_Task - Attachment ID : 246, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:16 : INFO] - 75 
+[2022-08-19 21:23:16 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/IMG_20220513_135920-01-removebg-preview.png.The file was compressed from 99.22 KB to 50.07 KB saving 49.53 percent using WP-Optimize 
+[2022-08-19 21:23:16 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2022-08-19 21:23:16 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2022-08-19 21:23:16 : INFO] - Re_Smush_It_Task - Attachment ID : 378, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:16 : INFO] - 75 
+[2022-08-19 21:23:16 : INFO] - Backing up the original image - 2022/08/Screenshot_1-updraft-pre-smush-original.jpg 
+[2022-08-19 21:23:16 : INFO] - Re_Smush_It_Task - Attachment ID : 378, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:16 : INFO] - 75 
+[2022-08-19 21:23:16 : INFO] - Re_Smush_It_Task - Attachment ID : 378, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:16 : INFO] - 75 
+[2022-08-19 21:23:17 : INFO] - Re_Smush_It_Task - Attachment ID : 378, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:17 : INFO] - 75 
+[2022-08-19 21:23:17 : INFO] - Re_Smush_It_Task - Attachment ID : 378, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:17 : INFO] - 75 
+[2022-08-19 21:23:17 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/Screenshot_1.jpg.The file was compressed from 140.76 KB to 81.52 KB saving 42.08 percent using WP-Optimize 
+[2022-08-19 21:23:17 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2022-08-19 21:23:17 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2022-08-19 21:23:17 : INFO] - Re_Smush_It_Task - Attachment ID : 401, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:17 : INFO] - 75 
+[2022-08-19 21:23:17 : INFO] - Backing up the original image - 2022/08/Screenshot_1-1-updraft-pre-smush-original.jpg 
+[2022-08-19 21:23:17 : INFO] - Re_Smush_It_Task - Attachment ID : 401, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:17 : INFO] - 75 
+[2022-08-19 21:23:17 : INFO] - Re_Smush_It_Task - Attachment ID : 401, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:17 : INFO] - 75 
+[2022-08-19 21:23:18 : INFO] - Re_Smush_It_Task - Attachment ID : 401, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:18 : INFO] - 75 
+[2022-08-19 21:23:18 : INFO] - Re_Smush_It_Task - Attachment ID : 401, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:18 : INFO] - 75 
+[2022-08-19 21:23:18 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/Screenshot_1-1.jpg.The file was compressed from 123.73 KB to 71.99 KB saving 41.82 percent using WP-Optimize 
+[2022-08-19 21:23:18 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2022-08-19 21:23:18 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2022-08-19 21:23:18 : INFO] - Re_Smush_It_Task - Attachment ID : 602, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:18 : INFO] - 75 
+[2022-08-19 21:23:18 : INFO] - Backing up the original image - 2022/08/qi-addons-for-elementor-placeholder-updraft-pre-smush-original.png 
+[2022-08-19 21:23:18 : INFO] - Re_Smush_It_Task - Attachment ID : 602, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:18 : INFO] - 75 
+[2022-08-19 21:23:18 : INFO] - Re_Smush_It_Task - Attachment ID : 602, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:18 : INFO] - 75 
+[2022-08-19 21:23:19 : INFO] - Re_Smush_It_Task - Attachment ID : 602, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:19 : INFO] - 75 
+[2022-08-19 21:23:19 : INFO] - Re_Smush_It_Task - Attachment ID : 602, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:19 : INFO] - 75 
+[2022-08-19 21:23:19 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/qi-addons-for-elementor-placeholder.png.The file was compressed from 13.83 KB to 8.05 KB saving 41.78 percent using WP-Optimize 
+[2022-08-19 21:23:19 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2022-08-19 21:23:19 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2022-08-19 21:23:19 : INFO] - Re_Smush_It_Task - Attachment ID : 935, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:19 : INFO] - 75 
+[2022-08-19 21:23:19 : INFO] - Backing up the original image - 2022/08/sajt1-updraft-pre-smush-original.jpg 
+[2022-08-19 21:23:19 : INFO] - Re_Smush_It_Task - Attachment ID : 935, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:19 : INFO] - 75 
+[2022-08-19 21:23:19 : INFO] - Task with ID 5 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-08-19 21:23:19 : INFO] - Re_Smush_It_Task - Attachment ID : 935, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:19 : INFO] - 75 
+[2022-08-19 21:23:20 : INFO] - Task with ID 5 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-08-19 21:23:20 : INFO] - Re_Smush_It_Task - Attachment ID : 935, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:20 : INFO] - 75 
+[2022-08-19 21:23:20 : INFO] - Re_Smush_It_Task - Attachment ID : 935, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:20 : INFO] - 75 
+[2022-08-19 21:23:20 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/sajt1.jpg.The file was compressed from 57.61 KB to 31.57 KB saving 45.2 percent using WP-Optimize 
+[2022-08-19 21:23:20 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2022-08-19 21:23:20 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2022-08-19 21:23:20 : INFO] - Re_Smush_It_Task - Attachment ID : 936, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:20 : INFO] - 75 
+[2022-08-19 21:23:20 : INFO] - Backing up the original image - 2022/08/sajt2-updraft-pre-smush-original.jpg 
+[2022-08-19 21:23:20 : INFO] - Re_Smush_It_Task - Attachment ID : 936, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:20 : INFO] - 75 
+[2022-08-19 21:23:20 : INFO] - Re_Smush_It_Task - Attachment ID : 936, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:20 : INFO] - 75 
+[2022-08-19 21:23:20 : INFO] - Re_Smush_It_Task - Attachment ID : 936, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:21 : INFO] - 75 
+[2022-08-19 21:23:21 : INFO] - Re_Smush_It_Task - Attachment ID : 936, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:21 : INFO] - 75 
+[2022-08-19 21:23:21 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/sajt2.jpg.The file was compressed from 185.18 KB to 72.04 KB saving 61.1 percent using WP-Optimize 
+[2022-08-19 21:23:21 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2022-08-19 21:23:21 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2022-08-19 21:23:21 : INFO] - Re_Smush_It_Task - Attachment ID : 939, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:21 : INFO] - 75 
+[2022-08-19 21:23:21 : INFO] - Task with ID 7 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-08-19 21:23:21 : INFO] - Re_Smush_It_Task - Attachment ID : 939, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:21 : INFO] - 75 
+[2022-08-19 21:23:21 : INFO] - Task with ID 7 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-08-19 21:23:21 : INFO] - Re_Smush_It_Task - Attachment ID : 939, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:21 : INFO] - 75 
+[2022-08-19 21:23:21 : INFO] - Re_Smush_It_Task - Attachment ID : 939, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:21 : INFO] - 75 
+[2022-08-19 21:23:21 : INFO] - Re_Smush_It_Task - Attachment ID : 939, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:21 : INFO] - 75 
+[2022-08-19 21:23:22 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/sajt3.jpg.The file was compressed from 81.25 KB to 81.25 KB saving 0 percent using WP-Optimize 
+[2022-08-19 21:23:22 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2022-08-19 21:23:22 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2022-08-19 21:23:22 : INFO] - Re_Smush_It_Task - Attachment ID : 966, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:22 : INFO] - 75 
+[2022-08-19 21:23:22 : INFO] - Backing up the original image - 2022/08/IMG-a85346717c7204e6fe9e35dc9e480ffc-V-updraft-pre-smush-original.jpg 
+[2022-08-19 21:23:22 : INFO] - Re_Smush_It_Task - Attachment ID : 966, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:22 : INFO] - 75 
+[2022-08-19 21:23:22 : INFO] - Re_Smush_It_Task - Attachment ID : 966, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:22 : INFO] - 75 
+[2022-08-19 21:23:22 : INFO] - Re_Smush_It_Task - Attachment ID : 966, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:22 : INFO] - 75 
+[2022-08-19 21:23:22 : INFO] - Re_Smush_It_Task - Attachment ID : 966, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:22 : INFO] - 75 
+[2022-08-19 21:23:23 : INFO] - Task with ID 8 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-08-19 21:23:23 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/IMG-a85346717c7204e6fe9e35dc9e480ffc-V.jpg.The file was compressed from 164.88 KB to 73.78 KB saving 55.25 percent using WP-Optimize 
+[2022-08-19 21:23:23 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2022-08-19 21:23:23 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2022-08-19 21:23:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1174, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:23 : INFO] - 75 
+[2022-08-19 21:23:23 : INFO] - Backing up the original image - 2022/08/linkedin55-2-updraft-pre-smush-original.png 
+[2022-08-19 21:23:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1174, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:23 : INFO] - 75 
+[2022-08-19 21:23:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1174, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:23 : INFO] - 75 
+[2022-08-19 21:23:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1174, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:23 : INFO] - 75 
+[2022-08-19 21:23:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1174, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:23 : INFO] - 75 
+[2022-08-19 21:23:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1174, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:24 : INFO] - 75 
+[2022-08-19 21:23:24 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/linkedin55-2.png.The file was compressed from 4.92 KB to 2.24 KB saving 54.52 percent using WP-Optimize 
+[2022-08-19 21:23:24 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2022-08-19 21:23:24 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2022-08-19 21:23:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1175, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:24 : INFO] - 75 
+[2022-08-19 21:23:24 : INFO] - Backing up the original image - 2022/08/linkedin323232-2-updraft-pre-smush-original.png 
+[2022-08-19 21:23:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1175, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:24 : INFO] - 75 
+[2022-08-19 21:23:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1175, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:24 : INFO] - 75 
+[2022-08-19 21:23:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1175, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:24 : INFO] - 75 
+[2022-08-19 21:23:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1175, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:25 : INFO] - 75 
+[2022-08-19 21:23:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1175, Started on : August 19, 2022 09:23:15 
+[2022-08-19 21:23:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-19 21:23:25 : INFO] - 75 
+[2022-08-19 21:23:25 : INFO] - Successfully optimized the image - /home/ntodorovic/public_html/portfolio/wp-content/uploads/2022/08/linkedin323232-2.png.The file was compressed from 5.34 KB to 2.27 KB saving 57.49 percent using WP-Optimize 
+[2022-08-19 21:23:25 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2022-08-19 21:23:25 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-08-19 21:23:25 : INFO] - Successfully processed the queue (smush). 10 tasks were processed out of 10. 
+[2022-08-19 21:23:25 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-08-19 21:23:25 : INFO] - Cleaning up tasks of type (smush). A total of 10 tasks will be deleted. 

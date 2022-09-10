@@ -1,0 +1,331 @@
+# Translation of Plugins - Autoptimize - Stable (latest release) in Serbian
+# This file is distributed under the same license as the Plugins - Autoptimize - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-11 09:23:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Plugins - Autoptimize - Stable (latest release)\n"
+
+#: classes/autoptimizeExtra.php:508 classes/autoptimizeExtra.php:530
+msgid "Extra"
+msgstr "Екстра"
+
+#: classes/autoptimizeExtra.php:548
+msgid "Leave as is"
+msgstr "Оставите како јесте"
+
+#: classes/autoptimizeExtra.php:546
+msgid "Google Fonts"
+msgstr "Google Фонтови"
+
+#: classes/autoptimizeExtra.php:558
+msgid "Remove emojis"
+msgstr "Уклоните емотиконе"
+
+#: classes/autoptimizeExtra.php:576
+msgid "Preconnect to 3rd party domains <em>(advanced users)</em>"
+msgstr "Преконекција са 3rd party доменима <em>(напредни корисници)</em>"
+
+#: classes/autoptimizeExtra.php:564
+msgid "Remove query strings from static resources"
+msgstr "Уклањањe низа упита статичних resursa"
+
+#: classes/autoptimizeExtra.php:560
+msgid "Removes WordPress' core emojis' inline CSS, inline JavaScript, and an otherwise un-autoptimized JavaScript file."
+msgstr "Уклањање Вордпресових ”системских емотикона” инлајн CSS, инлајн JavaScript и других неоптимизованих JavaScript датотека."
+
+#: classes/autoptimizeExtra.php:543
+msgid "The following settings can improve your site's performance even more."
+msgstr "Подешавања у наставку могу побољшати перформансе вашег веб сајта још више."
+
+#: classes/autoptimizeExtra.php:542
+msgid "Extra Auto-Optimizations"
+msgstr "Додатна Ауто-Подешавања"
+
+#: classes/autoptimizeCLI.php:30
+msgid "Cache flushed."
+msgstr "Кеш испражњен."
+
+#: classes/autoptimizeCLI.php:28
+msgid "Flushing the cache..."
+msgstr "Пражњење кеша..."
+
+#: classes/autoptimizeExtra.php:588
+msgid "Async Javascript-files <em>(advanced users)</em>"
+msgstr "Async Javascript-датотека <em>(напредни корисници)</em>"
+
+#: classes/autoptimizeExtra.php:578
+msgid "Add 3rd party domains you want the browser to <a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">preconnect</a> to, separated by comma's. Make sure to include the correct protocol (HTTP or HTTPS)."
+msgstr "Додавање 3rd party домена на које желите да се прегледач <a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">повеже</a> раздвојено зарезима. Будите сигурни да означите исправан протокол (HTTP или HTTPS)."
+
+#: classes/autoptimizeExtra.php:554
+msgid "Combine and load fonts asynchronously with <a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a>"
+msgstr "Комбиновање и учитавање фонтова асинхроно уз <a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a>"
+
+#: classes/autoptimizeConfig.php:268 classes/autoptimizeConfig.php:317
+#: classes/autoptimizeExtra.php:554
+msgid "(deprecated)"
+msgstr "(застарело)"
+
+#: classes/autoptimizeConfig.php:526
+msgid "Need help? <a href='https://wordpress.org/plugins/autoptimize/faq/'>Check out the FAQ here</a>."
+msgstr "Требате помоћ? <a href='https://wordpress.org/plugins/autoptimize/faq/'>Прочитајте нека од најчешће постављаних питања овде</a>."
+
+#: classes/autoptimizeConfig.php:475
+msgid "By default Autoptimize is also active on your shop's cart/ checkout, uncheck not to optimize those."
+msgstr "Autoptimize је подразумевано активан и на вашим страницама корпе/благајне, искључите ову опцију уколико не желите да их оптимизујете."
+
+#: classes/autoptimizeConfig.php:473
+msgid "Also optimize shop cart/ checkout?"
+msgstr "Оптимизација страница корпе/благајне?"
+
+#: classes/autoptimizeConfig.php:441
+msgid "Misc Options"
+msgstr "Остале могућности"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://autoptimize.com/"
+msgstr "http://autoptimize.com/"
+
+#. Translators: %s is the cache directory location.
+#: classes/autoptimizeMain.php:738
+msgid "Autoptimize cannot write to the cache directory (%s), please fix to enable CSS/ JS optimization!"
+msgstr "Autoptimize не може да уписује у кеш директоријум (%s), молимо решите овај проблем како би омогућили CSS/ JS оптимизацију!"
+
+#: classes/autoptimizePartners.php:56
+msgid "Have a look at <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> for Autoptimize power-ups!"
+msgstr "Посетите <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> за још више Autoptimize додатака!"
+
+#: classes/autoptimizePartners.php:146
+msgid "These Autoptimize power-ups and related services will improve your site's performance even more!"
+msgstr "Ови Autoptimize додаци и остали сервиси ће побољшати перформансе вашег веб сајта још више!"
+
+#: classes/autoptimizePartners.php:40 classes/autoptimizePartners.php:142
+msgid "Optimize More!"
+msgstr "Оптимизујте још више!"
+
+#: classes/autoptimizeCacheChecker.php:66
+msgid "Autoptimize cache size warning"
+msgstr "Упозорење величине Autoptimize кеша"
+
+#. translators: links to the Autoptimize settings page.
+#: classes/autoptimizeToolbar.php:153
+msgid "Dismiss this notice."
+msgstr "Одбаците ово обавештење."
+
+#: classes/autoptimizeToolbar.php:107
+msgid "Files"
+msgstr "Датотеке"
+
+#: classes/autoptimizeToolbar.php:106
+msgid "Size"
+msgstr "Величина"
+
+#: classes/autoptimizeCacheChecker.php:67
+msgid "Autoptimize's cache size is getting big, consider purging the cache. Have a look at https://wordpress.org/plugins/autoptimize/faq/ to see how you can keep the cache size under control."
+msgstr "Autoptimize кеш постаје превелик, размислите о чишћењу кеша. Посетите https://wordpress.org/plugins/autoptimize/faq/ како би сазнали више о контролисању величине кеша."
+
+#: classes/autoptimizeConfig.php:380
+msgid "Enable this if you want HTML comments to remain in the page."
+msgstr "Укључите ову опцију уколико желите да остану HTML коментари на страници."
+
+#: classes/autoptimizeConfig.php:936
+msgid "No items"
+msgstr "Нема елемената"
+
+#: classes/autoptimizeConfig.php:239
+msgid "Also aggregate inline JS?"
+msgstr "Агрегација инлајн JS?"
+
+#: classes/autoptimizeConfig.php:303
+msgid "Also aggregate inline CSS?"
+msgstr "Агрегација и инлајн CSS-а?"
+
+#: classes/autoptimizeConfig.php:305
+msgid "Check this option for Autoptimize to also aggregate CSS in the HTML."
+msgstr "Укључите ову опцију уколико желите да Autoptimize одради агрегацију CSS-а у HTML-у."
+
+#: classes/autoptimizeConfig.php:527
+msgid "Happy with Autoptimize?"
+msgstr "Задовољни сте са Autoptimize?"
+
+#: classes/autoptimizeConfig.php:527
+msgid "Try my other plugins!"
+msgstr "Испробајте и моје друге додатке!"
+
+#. translators: the variable contains a date.
+#: classes/autoptimizeConfig.php:942
+msgid "Posted %s"
+msgstr "Објављено %s"
+
+#: classes/autoptimizeExtra.php:549
+msgid "Remove Google Fonts"
+msgstr "Избаците Гугл Фонтове?"
+
+#: classes/autoptimizeConfig.php:418
+msgid "No"
+msgstr "Не"
+
+#: classes/autoptimizeConfig.php:94 classes/autoptimizeConfig.php:200
+#: classes/autoptimizeCriticalCSSSettings.php:128
+#: classes/autoptimizeExtra.php:532 classes/autoptimizeImages.php:1195
+#: classes/autoptimizePartners.php:144
+msgid "Autoptimize Settings"
+msgstr "Autoptimize подешавања"
+
+#: classes/autoptimizeConfig.php:366
+msgid "HTML Options"
+msgstr "HTML Опције"
+
+#: classes/autoptimizeConfig.php:378
+msgid "Keep HTML comments?"
+msgstr "Задржите HTML коментаре?"
+
+#: classes/autoptimizeConfig.php:244
+msgid "Force JavaScript in &lt;head&gt;?"
+msgstr "Приморај JavaScript у &lt;head&gt;?"
+
+#: classes/autoptimizeConfig.php:291
+msgid "CSS Options"
+msgstr "CSS Опције"
+
+#: classes/autoptimizeConfig.php:308
+msgid "Generate data: URIs for images?"
+msgstr "Генерисање података: URI за слике?"
+
+#: classes/autoptimizeConfig.php:501
+#: classes/autoptimizeCriticalCSSSettings.php:342
+#: classes/autoptimizeExtra.php:626 classes/autoptimizeImages.php:1338
+msgid "Save Changes"
+msgstr "Сачувајте измене"
+
+#: classes/autoptimizeConfig.php:789 classes/autoptimizeConfig.php:795
+msgid "Settings"
+msgstr "Подешавања"
+
+#: classes/autoptimizeConfig.php:294
+msgid "Optimize CSS Code?"
+msgstr "Оптимизација CSS кода?"
+
+#: classes/autoptimizeConfig.php:369
+msgid "Optimize HTML Code?"
+msgstr "Оптимизација HTML кода?"
+
+#: classes/autoptimizeConfig.php:227
+msgid "JavaScript Options"
+msgstr "JavaScript опције"
+
+#: classes/autoptimizeConfig.php:230
+msgid "Optimize JavaScript Code?"
+msgstr "Оптимизација JavaScript кода?"
+
+#: classes/autoptimizeConfig.php:267
+msgid "Look for scripts only in &lt;head&gt;?"
+msgstr "Тражење скрипте само у &lt;head&gt;?"
+
+#: classes/autoptimizeConfig.php:276
+msgid "Exclude scripts from Autoptimize:"
+msgstr "Изузети скрипте из Autoptimize:"
+
+#. Author of the plugin
+msgid "Frank Goossens (futtta)"
+msgstr "Frank Goossens (futtta)"
+
+#: classes/autoptimizeConfig.php:720 classes/autoptimizeConfig.php:723
+#: classes/autoptimizeConfig.php:726
+msgid "Autoptimize Options"
+msgstr "Autoptimize могућности"
+
+#: classes/autoptimizeConfig.php:542
+msgid "Do not donate for this plugin!"
+msgstr "Немојте да донирате за овај додатак!"
+
+#. Plugin Name of the plugin
+#: classes/autoptimizeCacheChecker.php:110 classes/autoptimizeConfig.php:717
+#: classes/autoptimizeToolbar.php:82
+msgid "Autoptimize"
+msgstr "Autoptimize"
+
+#: classes/autoptimizeConfig.php:502
+msgid "Save Changes and Empty Cache"
+msgstr "Сачувај измене и испразни кеш"
+
+#: classes/autoptimizeConfig.php:446
+msgid "By default files saved are static css/js, uncheck this option if your webserver doesn't properly handle the compression and expiry."
+msgstr "Подразумевано је да су сачувани фајлови статични css/js, онемогућите ову могућност уколико ваш веб сервер не подноси исправно компресију и време истицања."
+
+#: classes/autoptimizeConfig.php:444
+msgid "Save aggregated script/css as static files?"
+msgstr "Сачувајте накупљене script/css као статичне датотеке?"
+
+#: classes/autoptimizeConfig.php:421
+msgid "Cached styles and scripts"
+msgstr "Кеширани стилови и скрипте"
+
+#: classes/autoptimizeConfig.php:418
+msgid "Yes"
+msgstr "Да"
+
+#: classes/autoptimizeConfig.php:417
+msgid "Can we write?"
+msgstr "Да ли можемо писати?"
+
+#: classes/autoptimizeConfig.php:413
+msgid "Cache folder"
+msgstr "Кеш фасцикла"
+
+#: classes/autoptimizeConfig.php:410
+msgid "Cache Info"
+msgstr "Кеш информације"
+
+#: classes/autoptimizeConfig.php:389
+msgid "CDN Base URL"
+msgstr "CDN базни URL"
+
+#: classes/autoptimizeConfig.php:386
+msgid "CDN Options"
+msgstr "CDN могућности"
+
+#: classes/autoptimizeConfig.php:349
+msgid "A comma-separated list of CSS you want to exclude from being optimized."
+msgstr "CSS листа одвојена зарезима које желите да искључите из оптимизације."
+
+#: classes/autoptimizeConfig.php:346
+msgid "Exclude CSS from Autoptimize:"
+msgstr "Искључите CSS из Autoptimize"
+
+#: classes/autoptimizeConfig.php:341
+msgid "Inline all CSS?"
+msgstr "Inline целокупног CSS?"
+
+#: classes/autoptimizeConfig.php:321
+msgid "Don't autoptimize CSS outside the head-section. If the cache gets big, you might want to enable this."
+msgstr "Без оптимизације CSS који се налази изван head одељка. Уколико кеш постане превелик, размислите о омогућавању ове могућности."
+
+#: classes/autoptimizeConfig.php:316
+msgid "Look for styles only in &lt;head&gt;?"
+msgstr "Тражење стилова само у &lt;head&gt;?"
+
+#: classes/autoptimizeConfig.php:310
+msgid "Enable this to include small background-images in the CSS itself instead of as separate downloads."
+msgstr "Омогућите како би укључили и мале позадинске слике у сам CSS уместо да се засебно скидају."
+
+#: classes/autoptimizeConfig.php:249
+msgid "Add try-catch wrapping?"
+msgstr "Покушајте са кеш wrapping?"
+
+#: classes/autoptimizeConfig.php:272
+msgid "Mostly useful in combination with previous option when using jQuery-based templates, but might help keeping cache size under control."
+msgstr ""
+"Углавном корисно у комбинацији са претходном могућношћу, када се користе \n"
+" jQuery-based шаблони, може помоћи и код контроле величине кеша."
+
+#: classes/autoptimizeMain.php:752
+msgid "Autoptimize has just been updated. Please <strong>test your site now</strong> and adapt Autoptimize config if needed."
+msgstr "Autoptimize је ажуриран. Молимо вас да <strong>тестирате свој веб сајт</strong>  и измените Autoptimize подешавања уколико је потребно."
