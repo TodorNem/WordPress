@@ -1,0 +1,916 @@
+
+18-09-2022 20:06:31 [ntodorovic.wppsbootcamp.com][info] Parent plugin start installation!
+18-09-2022 20:06:31 [ntodorovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+18-09-2022 20:06:31 [ntodorovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+18-09-2022 20:06:35 [ntodorovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/ntodorovic/public_html/projekat/wp-content/uploads/wio_backup)
+-------------------------------
+18-09-2022 20:06:42 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:42 [ntodorovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/ntodorovic/public_html/projekat/wp-content/uploads/wio_backup/2022/09)
+18-09-2022 20:06:42 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/864-removebg-2-e1663506287700.png) to a remote server (server_1).
+18-09-2022 20:06:43 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:43 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/864-removebg-2-e1663506287700-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:43 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:43 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/864-removebg-2-e1663506287700-300x294.png) to a remote server (server_1).
+18-09-2022 20:06:43 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:43 [ntodorovic.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;160&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:221046,&quot;final_size&quot;:99889,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:146912,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531603}
+18-09-2022 20:06:43 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 58
+-------------------------------
+18-09-2022 20:06:43 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:43 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/daniil-silantev-wLaus9bLmGQ-unsplash-removebg-e1663506584269.png) to a remote server (server_1).
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/daniil-silantev-wLaus9bLmGQ-unsplash-removebg-e1663506584269-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/daniil-silantev-wLaus9bLmGQ-unsplash-removebg-e1663506584269-285x300.png) to a remote server (server_1).
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;326&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:173763,&quot;final_size&quot;:83186,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:116185,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531604}
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 57
+-------------------------------
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview.png) to a remote server (server_1).
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #333). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 303x385
+	-&gt; Relative path: 2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview.png
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 236x300, MIME type: image/png
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/png
+		-&gt; Type: et-pb-post-main-image, size: 303x250, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-image, size: 303x284, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-module-image, size: 303x382, MIME type: image/png
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/png
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/png
+
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;333&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531604}
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview.png, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview.png, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 56
+-------------------------------
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:44 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/jesse-donoghoe-1BHQ22EL3NI-unsplash-removebg-e1663506223649.png) to a remote server (server_1).
+18-09-2022 20:06:45 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:45 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/jesse-donoghoe-1BHQ22EL3NI-unsplash-removebg-e1663506223649-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:45 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:45 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/jesse-donoghoe-1BHQ22EL3NI-unsplash-removebg-e1663506223649-256x300.png) to a remote server (server_1).
+18-09-2022 20:06:45 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:45 [ntodorovic.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;335&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:202978,&quot;final_size&quot;:60944,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:108513,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531605}
+18-09-2022 20:06:45 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 55
+-------------------------------
+18-09-2022 20:06:45 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:45 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/guglielmo-basile-fupKD-E4GZ0-unsplash-removebg-e1663506479328.png) to a remote server (server_1).
+18-09-2022 20:06:46 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:46 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/guglielmo-basile-fupKD-E4GZ0-unsplash-removebg-e1663506479328-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:46 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:46 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/guglielmo-basile-fupKD-E4GZ0-unsplash-removebg-e1663506479328-298x300.png) to a remote server (server_1).
+18-09-2022 20:06:46 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:46 [ntodorovic.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;343&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:184589,&quot;final_size&quot;:80467,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:104578,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531606}
+18-09-2022 20:06:46 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 54
+-------------------------------
+18-09-2022 20:06:46 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:46 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/jesse-donoghoe-1BHQ22EL3NI-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:06:47 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:47 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/jesse-donoghoe-1BHQ22EL3NI-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:06:47 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:47 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/jesse-donoghoe-1BHQ22EL3NI-unsplash-300x240.jpg) to a remote server (server_1).
+18-09-2022 20:06:47 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:47 [ntodorovic.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;463&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:655208,&quot;final_size&quot;:655208,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:635822,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531607}
+18-09-2022 20:06:47 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 53
+-------------------------------
+18-09-2022 20:06:47 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:47 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/ospan-ali-9wInGcDadmw-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:06:48 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:48 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/ospan-ali-9wInGcDadmw-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:06:48 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:49 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/ospan-ali-9wInGcDadmw-unsplash-245x300.jpg) to a remote server (server_1).
+18-09-2022 20:06:49 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:49 [ntodorovic.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;478&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:758975,&quot;final_size&quot;:758975,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:743803,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531609}
+18-09-2022 20:06:49 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 52
+-------------------------------
+18-09-2022 20:06:49 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:49 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/rohan-g-T9ckn3XHHnA-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:06:49 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/rohan-g-T9ckn3XHHnA-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/rohan-g-T9ckn3XHHnA-unsplash-240x300.jpg) to a remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;480&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:378392,&quot;final_size&quot;:378392,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:364525,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531610}
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 51
+-------------------------------
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/LOGO-BLACK-1.png) to a remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/LOGO-BLACK-1-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/LOGO-BLACK-1-300x83.png) to a remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;490&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:6386,&quot;final_size&quot;:4713,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:4260,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531610}
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 50
+-------------------------------
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:50 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/LOGO-WHITE-e1663506345957.png) to a remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/LOGO-WHITE-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/LOGO-WHITE-300x83.png) to a remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;493&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:3453,&quot;final_size&quot;:3319,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:1297,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531611}
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 49
+-------------------------------
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/camilo-arango-m-Tcptj7KYDME-unsplash-scaled-e1663201129383.jpg) to a remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/camilo-arango-m-Tcptj7KYDME-unsplash-scaled-e1663201129383-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/camilo-arango-m-Tcptj7KYDME-unsplash-scaled-e1663201129383-300x290.jpg) to a remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;504&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:324187,&quot;final_size&quot;:324187,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:301827,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531611}
+18-09-2022 20:06:51 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 48
+-------------------------------
+18-09-2022 20:06:52 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:52 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:06:52 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #505). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1600x1067
+	-&gt; Relative path: 2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-scaled.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x200, MIME type: image/jpeg
+		-&gt; Type: large, size: 1024x683, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x512, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1536x1024, MIME type: image/jpeg
+		-&gt; Type: 2048x2048, size: 2048x1365, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 1080x675, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image-single, size: 1080x720, MIME type: image/jpeg
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth-large, size: 2880x1800, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--desktop, size: 1280x854, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--tablet, size: 980x653, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x320, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x400, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+
+18-09-2022 20:06:52 [ntodorovic.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;505&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531612}
+18-09-2022 20:06:52 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-scaled.jpg, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-scaled.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:06:52 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 47
+-------------------------------
+18-09-2022 20:06:52 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:52 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/tim-umphreys-TmUlTSNPkCA-unsplash-scaled-e1663201105910.jpg) to a remote server (server_1).
+18-09-2022 20:06:52 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:53 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/tim-umphreys-TmUlTSNPkCA-unsplash-scaled-e1663201105910-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:06:53 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:53 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/tim-umphreys-TmUlTSNPkCA-unsplash-scaled-e1663201105910-300x220.jpg) to a remote server (server_1).
+18-09-2022 20:06:53 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:53 [ntodorovic.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;525&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:470788,&quot;final_size&quot;:470788,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:446223,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531613}
+18-09-2022 20:06:53 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 46
+-------------------------------
+18-09-2022 20:06:53 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:53 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/blackamsterdam.png) to a remote server (server_1).
+18-09-2022 20:06:53 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:54 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/blackamsterdam-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:54 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:54 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/blackamsterdam-256x300.png) to a remote server (server_1).
+18-09-2022 20:06:54 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:54 [ntodorovic.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;568&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:789651,&quot;final_size&quot;:312743,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:771517,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531614}
+18-09-2022 20:06:54 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 45
+-------------------------------
+18-09-2022 20:06:54 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:54 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/brownamsterdam.png) to a remote server (server_1).
+18-09-2022 20:06:55 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:55 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/brownamsterdam-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:55 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:55 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/brownamsterdam-256x300.png) to a remote server (server_1).
+18-09-2022 20:06:56 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:56 [ntodorovic.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;569&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:983157,&quot;final_size&quot;:326576,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:955380,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531616}
+18-09-2022 20:06:56 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 44
+-------------------------------
+18-09-2022 20:06:56 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:56 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/goldamsterdam.png) to a remote server (server_1).
+18-09-2022 20:06:57 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:57 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/goldamsterdam-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:57 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:57 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/goldamsterdam-256x300.png) to a remote server (server_1).
+18-09-2022 20:06:57 [ntodorovic.wppsbootcamp.com][debug] New queue created #16, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;570&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:963956,&quot;final_size&quot;:297895,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:955539,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531617}
+18-09-2022 20:06:57 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 43
+-------------------------------
+18-09-2022 20:06:58 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:58 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/whiteamsterdam.png) to a remote server (server_1).
+18-09-2022 20:06:59 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:59 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/whiteamsterdam-150x150.png) to a remote server (server_1).
+18-09-2022 20:06:59 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:59 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/whiteamsterdam-256x300.png) to a remote server (server_1).
+18-09-2022 20:06:59 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:06:59 [ntodorovic.wppsbootcamp.com][debug] New queue created #17, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;571&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:629592,&quot;final_size&quot;:302337,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:608192,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531619}
+18-09-2022 20:06:59 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 42
+-------------------------------
+18-09-2022 20:06:59 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:06:59 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910BLACK.png) to a remote server (server_1).
+18-09-2022 20:07:00 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:01 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910BLACK-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:01 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:01 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910BLACK-297x300.png) to a remote server (server_1).
+18-09-2022 20:07:01 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:01 [ntodorovic.wppsbootcamp.com][debug] New queue created #18, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;628&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:974717,&quot;final_size&quot;:777980,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:957425,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531621}
+18-09-2022 20:07:01 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 41
+-------------------------------
+18-09-2022 20:07:01 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:01 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910GOLD.png) to a remote server (server_1).
+18-09-2022 20:07:02 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:02 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910GOLD-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:03 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:03 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910GOLD-297x300.png) to a remote server (server_1).
+18-09-2022 20:07:03 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:03 [ntodorovic.wppsbootcamp.com][debug] New queue created #19, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;629&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2125031,&quot;final_size&quot;:828538,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:2092242,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531623}
+18-09-2022 20:07:03 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 40
+-------------------------------
+18-09-2022 20:07:03 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:03 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910WHITE.png) to a remote server (server_1).
+18-09-2022 20:07:04 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:04 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910WHITE-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:04 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910WHITE-297x300.png) to a remote server (server_1).
+18-09-2022 20:07:04 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:04 [ntodorovic.wppsbootcamp.com][debug] New queue created #20, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;630&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1080271,&quot;final_size&quot;:884362,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:1063539,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531624}
+18-09-2022 20:07:04 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 39
+-------------------------------
+18-09-2022 20:07:05 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:05 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910PINK.png) to a remote server (server_1).
+18-09-2022 20:07:06 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:06 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910PINK-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:06 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:06 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/2910PINK-297x300.png) to a remote server (server_1).
+18-09-2022 20:07:06 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:06 [ntodorovic.wppsbootcamp.com][debug] New queue created #21, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;636&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2327301,&quot;final_size&quot;:854686,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:2299149,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531626}
+18-09-2022 20:07:06 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 38
+-------------------------------
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/daniil-silantev-wLaus9bLmGQ-unsplash-removebg-1-e1663507192778.png) to a remote server (server_1).
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/daniil-silantev-wLaus9bLmGQ-unsplash-removebg-1-e1663507192778-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/daniil-silantev-wLaus9bLmGQ-unsplash-removebg-1-e1663507192778-285x300.png) to a remote server (server_1).
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][debug] New queue created #22, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;646&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:177205,&quot;final_size&quot;:85250,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:119599,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531627}
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:07 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview-1.png) to a remote server (server_1).
+18-09-2022 20:07:08 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #648). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 303x385
+	-&gt; Relative path: 2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview-1.png
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 236x300, MIME type: image/png
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/png
+		-&gt; Type: et-pb-post-main-image, size: 303x250, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-image, size: 303x284, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-module-image, size: 303x382, MIME type: image/png
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/png
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/png
+		-&gt; Type: variation_swatches_image_size, size: 50x50, MIME type: image/png
+		-&gt; Type: variation_swatches_tooltip_size, size: 100x100, MIME type: image/png
+
+18-09-2022 20:07:08 [ntodorovic.wppsbootcamp.com][debug] New queue created #23, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;648&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531628}
+18-09-2022 20:07:08 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview-1.png, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview-1.png, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:07:08 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+18-09-2022 20:07:08 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:08 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRBROWN.png) to a remote server (server_1).
+18-09-2022 20:07:09 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:09 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRBROWN-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:09 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:09 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRBROWN-262x300.png) to a remote server (server_1).
+18-09-2022 20:07:09 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:09 [ntodorovic.wppsbootcamp.com][debug] New queue created #24, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;655&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:181912,&quot;final_size&quot;:145092,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:168827,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531629}
+18-09-2022 20:07:09 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+18-09-2022 20:07:09 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:09 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRGOLD.png) to a remote server (server_1).
+18-09-2022 20:07:10 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:10 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRGOLD-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:10 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:10 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRGOLD-262x300.png) to a remote server (server_1).
+18-09-2022 20:07:10 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:10 [ntodorovic.wppsbootcamp.com][debug] New queue created #25, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;656&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:181888,&quot;final_size&quot;:142686,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:165428,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531630}
+18-09-2022 20:07:10 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+18-09-2022 20:07:11 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:11 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHARPINK.png) to a remote server (server_1).
+18-09-2022 20:07:11 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:11 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHARPINK-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:11 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHARPINK-262x300.png) to a remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][debug] New queue created #26, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;657&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:167483,&quot;final_size&quot;:139540,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:151674,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531632}
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE.png) to a remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #658). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1396x1600
+	-&gt; Relative path: 2022/09/XOCHAIRWHITE.png
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 262x300, MIME type: image/png
+		-&gt; Type: large, size: 893x1024, MIME type: image/png
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/png
+		-&gt; Type: medium_large, size: 768x881, MIME type: image/png
+		-&gt; Type: 1536x1536, size: 1340x1536, MIME type: image/png
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/png
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 1080x675, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-image-single, size: 1080x1238, MIME type: image/png
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/png
+		-&gt; Type: et-pb-post-main-image-fullwidth-large, size: 1604x1800, MIME type: image/png
+		-&gt; Type: et-pb-image--responsive--desktop, size: 1280x1468, MIME type: image/png
+		-&gt; Type: et-pb-image--responsive--tablet, size: 980x1124, MIME type: image/png
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x550, MIME type: image/png
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/png
+		-&gt; Type: woocommerce_single, size: 600x688, MIME type: image/png
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/png
+		-&gt; Type: variation_swatches_image_size, size: 50x50, MIME type: image/png
+		-&gt; Type: variation_swatches_tooltip_size, size: 100x100, MIME type: image/png
+
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][debug] New queue created #27, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;658&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531632}
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE.png, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE.png, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/scopic-ltd-NLlWwR4d3qU-unsplash-removebg-preview-e1663191858302.png) to a remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/scopic-ltd-NLlWwR4d3qU-unsplash-removebg-preview-e1663191858302-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/scopic-ltd-NLlWwR4d3qU-unsplash-removebg-preview-e1663191858302-266x300.png) to a remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][debug] New queue created #28, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;660&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:159469,&quot;final_size&quot;:62081,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:139660,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531632}
+18-09-2022 20:07:12 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sam-moghadam-khamseh-ofxbaFNFNmo-unsplash-removebg-preview.png) to a remote server (server_1).
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sam-moghadam-khamseh-ofxbaFNFNmo-unsplash-removebg-preview-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sam-moghadam-khamseh-ofxbaFNFNmo-unsplash-removebg-preview-276x300.png) to a remote server (server_1).
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][debug] New queue created #29, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;663&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:152264,&quot;final_size&quot;:59284,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:139159,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531633}
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:13 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/eugenivy_now-1JJJIHh7-Mk-unsplash-removebg-preview.png) to a remote server (server_1).
+18-09-2022 20:07:14 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:14 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/eugenivy_now-1JJJIHh7-Mk-unsplash-removebg-preview-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:14 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:14 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/eugenivy_now-1JJJIHh7-Mk-unsplash-removebg-preview-270x300.png) to a remote server (server_1).
+18-09-2022 20:07:14 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:14 [ntodorovic.wppsbootcamp.com][debug] New queue created #30, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;667&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:141253,&quot;final_size&quot;:60646,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:118968,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531634}
+18-09-2022 20:07:14 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+18-09-2022 20:07:14 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:14 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/BARSELONAblue.png) to a remote server (server_1).
+18-09-2022 20:07:15 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:15 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/BARSELONAblue-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:15 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:15 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/BARSELONAblue-285x300.png) to a remote server (server_1).
+18-09-2022 20:07:15 [ntodorovic.wppsbootcamp.com][debug] New queue created #31, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;670&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:588629,&quot;final_size&quot;:239756,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:584175,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531635}
+18-09-2022 20:07:15 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+18-09-2022 20:07:15 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:15 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/BARSELONAPINK.png) to a remote server (server_1).
+18-09-2022 20:07:16 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:16 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/BARSELONAPINK-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:16 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:16 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/BARSELONAPINK-285x300.png) to a remote server (server_1).
+18-09-2022 20:07:17 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:17 [ntodorovic.wppsbootcamp.com][debug] New queue created #32, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;671&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:609157,&quot;final_size&quot;:248667,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:593225,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531637}
+18-09-2022 20:07:17 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+18-09-2022 20:07:17 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:17 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/berlingold.png) to a remote server (server_1).
+18-09-2022 20:07:18 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:18 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/berlingold-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:18 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:18 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/berlingold-270x300.png) to a remote server (server_1).
+18-09-2022 20:07:18 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:18 [ntodorovic.wppsbootcamp.com][debug] New queue created #33, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;675&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:384316,&quot;final_size&quot;:363160,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:362829,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531638}
+18-09-2022 20:07:18 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+18-09-2022 20:07:18 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:18 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/telavivred.png) to a remote server (server_1).
+18-09-2022 20:07:19 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:19 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/telavivred-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:19 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:19 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/telavivred-276x300.png) to a remote server (server_1).
+18-09-2022 20:07:19 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:19 [ntodorovic.wppsbootcamp.com][debug] New queue created #34, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;678&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:452226,&quot;final_size&quot;:254943,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:432207,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531639}
+18-09-2022 20:07:19 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/lisabonblue.png) to a remote server (server_1).
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/lisabonblue-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/lisabonblue-248x300.png) to a remote server (server_1).
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][debug] New queue created #35, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;682&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:433600,&quot;final_size&quot;:186141,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:414632,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531640}
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:20 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/julian-myles-JRPu9rnNgH8-unsplash-scaled-e1663196711575.jpg) to a remote server (server_1).
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #694). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1275x1600
+	-&gt; Relative path: 2022/09/julian-myles-JRPu9rnNgH8-unsplash-scaled-e1663196711575.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 239x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 816x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x964, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1224x1536, MIME type: image/jpeg
+		-&gt; Type: 2048x2048, size: 1632x2048, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 1080x675, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image-single, size: 1080x1356, MIME type: image/jpeg
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth-large, size: 1708x1800, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--desktop, size: 1280x720, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--tablet, size: 980x551, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x270, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x753, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: variation_swatches_image_size, size: 50x50, MIME type: image/jpeg
+		-&gt; Type: variation_swatches_tooltip_size, size: 100x100, MIME type: image/jpeg
+
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][debug] New queue created #36, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;694&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531641}
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/julian-myles-JRPu9rnNgH8-unsplash-scaled-e1663196711575.jpg, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/julian-myles-JRPu9rnNgH8-unsplash-scaled-e1663196711575.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/jose-aponte-a9xzsIVs0CM-unsplash-scaled-e1663209118580.jpg) to a remote server (server_1).
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/jose-aponte-a9xzsIVs0CM-unsplash-scaled-e1663209118580-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/jose-aponte-a9xzsIVs0CM-unsplash-scaled-e1663209118580-278x300.jpg) to a remote server (server_1).
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][debug] New queue created #37, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;715&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:134284,&quot;final_size&quot;:134284,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:131074,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531641}
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:21 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-1-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:22 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:22 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-1-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:22 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:22 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-1-300x200.jpg) to a remote server (server_1).
+18-09-2022 20:07:22 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:22 [ntodorovic.wppsbootcamp.com][debug] New queue created #38, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;721&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:265490,&quot;final_size&quot;:265490,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:254883,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531642}
+18-09-2022 20:07:22 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+18-09-2022 20:07:23 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:23 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/joseph-greve-Z4gJ27dgydo-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:23 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #764). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1600x1067
+	-&gt; Relative path: 2022/09/joseph-greve-Z4gJ27dgydo-unsplash-scaled.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x200, MIME type: image/jpeg
+		-&gt; Type: large, size: 1024x683, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x512, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1536x1024, MIME type: image/jpeg
+		-&gt; Type: 2048x2048, size: 2048x1365, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 1080x675, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image-single, size: 1080x720, MIME type: image/jpeg
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth-large, size: 2880x1800, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--desktop, size: 1280x854, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--tablet, size: 980x653, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x320, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x400, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: variation_swatches_image_size, size: 50x50, MIME type: image/jpeg
+		-&gt; Type: variation_swatches_tooltip_size, size: 100x100, MIME type: image/jpeg
+
+18-09-2022 20:07:23 [ntodorovic.wppsbootcamp.com][debug] New queue created #39, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;764&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531643}
+18-09-2022 20:07:23 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/joseph-greve-Z4gJ27dgydo-unsplash-scaled.jpg, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/joseph-greve-Z4gJ27dgydo-unsplash-scaled.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:07:23 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+18-09-2022 20:07:23 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:23 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/kevin-ku-aiyBwbrWWlo-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/kevin-ku-aiyBwbrWWlo-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/kevin-ku-aiyBwbrWWlo-unsplash-300x225.jpg) to a remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][debug] New queue created #40, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;770&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:879029,&quot;final_size&quot;:879029,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:860361,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531644}
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/circular.png) to a remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/circular-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][debug] New queue created #41, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;791&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:8532,&quot;final_size&quot;:6263,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:5771,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531644}
+18-09-2022 20:07:24 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+18-09-2022 20:07:25 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:25 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/stlca-2.png) to a remote server (server_1).
+18-09-2022 20:07:25 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #796). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 265x265
+	-&gt; Relative path: 2022/09/stlca-2.png
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/png
+		-&gt; Type: et-pb-post-main-image, size: 265x250, MIME type: image/png
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/png
+		-&gt; Type: variation_swatches_image_size, size: 50x50, MIME type: image/png
+		-&gt; Type: variation_swatches_tooltip_size, size: 100x100, MIME type: image/png
+
+18-09-2022 20:07:25 [ntodorovic.wppsbootcamp.com][debug] New queue created #42, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;796&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531645}
+18-09-2022 20:07:25 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/stlca-2.png, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/stlca-2.png, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:07:25 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+18-09-2022 20:07:25 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:25 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/adolfo-felix-LDwr7AbmdfI-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/adolfo-felix-LDwr7AbmdfI-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/adolfo-felix-LDwr7AbmdfI-unsplash-300x200.jpg) to a remote server (server_1).
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][debug] New queue created #43, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;968&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1061539,&quot;final_size&quot;:1061539,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:1032363,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531646}
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/maintance-1.png) to a remote server (server_1).
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:26 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/maintance-1-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][debug] New queue created #44, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;998&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:10024,&quot;final_size&quot;:7166,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:7153,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531647}
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #1454). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1154x1600
+	-&gt; Relative path: 2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-scaled.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 216x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 739x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x1064, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1108x1536, MIME type: image/jpeg
+		-&gt; Type: 2048x2048, size: 1478x2048, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 1080x675, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image-single, size: 1080x1497, MIME type: image/jpeg
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth-large, size: 2309x1800, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--desktop, size: 1280x1774, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--tablet, size: 980x1358, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x665, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x832, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: variation_swatches_image_size, size: 50x50, MIME type: image/jpeg
+		-&gt; Type: variation_swatches_tooltip_size, size: 100x100, MIME type: image/jpeg
+
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][debug] New queue created #45, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1454&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531647}
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-scaled.jpg, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-scaled.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:27 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/rene-muller-VB5bKZlE1G0-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:28 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:28 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/rene-muller-VB5bKZlE1G0-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:28 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:28 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/rene-muller-VB5bKZlE1G0-unsplash-240x300.jpg) to a remote server (server_1).
+18-09-2022 20:07:28 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:28 [ntodorovic.wppsbootcamp.com][debug] New queue created #46, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1461&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:863224,&quot;final_size&quot;:863224,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:851508,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531648}
+18-09-2022 20:07:28 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/daniel-mccullough-80VTQEkRh1c-unsplash.jpg) to a remote server (server_1).
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/daniel-mccullough-80VTQEkRh1c-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/daniel-mccullough-80VTQEkRh1c-unsplash-300x200.jpg) to a remote server (server_1).
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][debug] New queue created #47, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1467&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:55681,&quot;final_size&quot;:55681,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:51593,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531649}
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:29 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/engin-akyurt-2-eCuma3qO0-unsplash.png) to a remote server (server_1).
+18-09-2022 20:07:33 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:34 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/engin-akyurt-2-eCuma3qO0-unsplash-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:34 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:34 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/engin-akyurt-2-eCuma3qO0-unsplash-300x163.png) to a remote server (server_1).
+18-09-2022 20:07:34 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:34 [ntodorovic.wppsbootcamp.com][debug] New queue created #48, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1547&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:5177955,&quot;final_size&quot;:3005296,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:5167412,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531654}
+18-09-2022 20:07:34 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+18-09-2022 20:07:34 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:34 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/federica-campanaro-NBJ0BBqvdNM-unsplash.png) to a remote server (server_1).
+18-09-2022 20:07:38 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:38 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/federica-campanaro-NBJ0BBqvdNM-unsplash-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:38 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:38 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/federica-campanaro-NBJ0BBqvdNM-unsplash-300x135.png) to a remote server (server_1).
+18-09-2022 20:07:38 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:38 [ntodorovic.wppsbootcamp.com][debug] New queue created #49, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1553&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:3222582,&quot;final_size&quot;:1898017,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:3208847,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531658}
+18-09-2022 20:07:38 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+18-09-2022 20:07:38 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:38 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/talen-de-st-croix-EXr_Qif3Vl8-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:39 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:39 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/talen-de-st-croix-EXr_Qif3Vl8-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:39 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:39 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/talen-de-st-croix-EXr_Qif3Vl8-unsplash-200x300.jpg) to a remote server (server_1).
+18-09-2022 20:07:39 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:39 [ntodorovic.wppsbootcamp.com][debug] New queue created #50, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1578&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:445266,&quot;final_size&quot;:445266,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:430391,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531659}
+18-09-2022 20:07:39 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+18-09-2022 20:07:39 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:39 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/julian-myles-JRPu9rnNgH8-unsplash-1-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:40 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:40 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/julian-myles-JRPu9rnNgH8-unsplash-1-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:40 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:40 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/julian-myles-JRPu9rnNgH8-unsplash-1-200x300.jpg) to a remote server (server_1).
+18-09-2022 20:07:40 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:40 [ntodorovic.wppsbootcamp.com][debug] New queue created #51, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1590&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:458875,&quot;final_size&quot;:458875,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:448382,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531660}
+18-09-2022 20:07:40 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+18-09-2022 20:07:40 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:40 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/joel-wyncott-xgTVkBW_A-0-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/joel-wyncott-xgTVkBW_A-0-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/joel-wyncott-xgTVkBW_A-0-unsplash-300x200.jpg) to a remote server (server_1).
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][debug] New queue created #52, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1593&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:171353,&quot;final_size&quot;:171353,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:162128,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531661}
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/dillon-mangum-9489sFfgk4c-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:41 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/dillon-mangum-9489sFfgk4c-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/dillon-mangum-9489sFfgk4c-unsplash-300x143.jpg) to a remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][debug] New queue created #53, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1614&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:59738,&quot;final_size&quot;:59738,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:54458,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531662}
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/dillon-mangum-9489sFfgk4c-unsplash-removebg-preview.png) to a remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/dillon-mangum-9489sFfgk4c-unsplash-removebg-preview-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/dillon-mangum-9489sFfgk4c-unsplash-removebg-preview-300x143.png) to a remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][debug] New queue created #54, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1637&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:57461,&quot;final_size&quot;:21405,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:51585,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531662}
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:42 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sam-moghadam-khamseh-kvmdsTrGOBM-unsplash-removebg-preview.png) to a remote server (server_1).
+18-09-2022 20:07:43 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:43 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sam-moghadam-khamseh-kvmdsTrGOBM-unsplash-removebg-preview-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:43 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:43 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sam-moghadam-khamseh-kvmdsTrGOBM-unsplash-removebg-preview-240x300.png) to a remote server (server_1).
+18-09-2022 20:07:43 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:43 [ntodorovic.wppsbootcamp.com][debug] New queue created #55, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1638&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:182408,&quot;final_size&quot;:69896,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:165193,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531663}
+18-09-2022 20:07:43 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+18-09-2022 20:07:43 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:43 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/andres-jasso-ssbgw3cKdXg-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/andres-jasso-ssbgw3cKdXg-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/andres-jasso-ssbgw3cKdXg-unsplash-300x207.jpg) to a remote server (server_1).
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][debug] New queue created #56, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1691&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:306123,&quot;final_size&quot;:306123,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:294886,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531664}
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE-1.png) to a remote server (server_1).
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #1743). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1396x1600
+	-&gt; Relative path: 2022/09/XOCHAIRWHITE-1.png
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 262x300, MIME type: image/png
+		-&gt; Type: large, size: 893x1024, MIME type: image/png
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/png
+		-&gt; Type: medium_large, size: 768x881, MIME type: image/png
+		-&gt; Type: 1536x1536, size: 1340x1536, MIME type: image/png
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/png
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 1080x675, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/png
+		-&gt; Type: et-pb-portfolio-image-single, size: 1080x1238, MIME type: image/png
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/png
+		-&gt; Type: et-pb-post-main-image-fullwidth-large, size: 1604x1800, MIME type: image/png
+		-&gt; Type: et-pb-image--responsive--desktop, size: 1280x1468, MIME type: image/png
+		-&gt; Type: et-pb-image--responsive--tablet, size: 980x1124, MIME type: image/png
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x550, MIME type: image/png
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/png
+		-&gt; Type: woocommerce_single, size: 600x688, MIME type: image/png
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/png
+		-&gt; Type: variation_swatches_image_size, size: 50x50, MIME type: image/png
+		-&gt; Type: variation_swatches_tooltip_size, size: 100x100, MIME type: image/png
+
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][debug] New queue created #57, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1743&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531664}
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE-1.png, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE-1.png, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:07:44 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/cropped-LOGO-BLACK-1.png) to a remote server (server_1).
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/cropped-LOGO-BLACK-1-150x150.png) to a remote server (server_1).
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/cropped-LOGO-BLACK-1-300x300.png) to a remote server (server_1).
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][debug] New queue created #58, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1753&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:7293,&quot;final_size&quot;:5837,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:5030,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531665}
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][debug] New queue created #59, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1798&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:false,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;path\&quot;,\&quot;error_msg\&quot;:\&quot;Attachment cannot be optimized. File \\\&quot;(\\\/home\\\/ntodorovic\\\/public_html\\\/projekat\\\/wp-content\\\/uploads\\\/woocommerce-placeholder.png)\\\&quot; doesn't exist\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531665}
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][error] Failed to find original attachment #1798 located in *empty path*. Skipping optimization. This may be caused due to bug in wp_get_attachment_metadata() function, which returns false for attachment meta
+18-09-2022 20:07:45 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+18-09-2022 20:09:04 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:04 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview.png) to a remote server (server_1).
+18-09-2022 20:09:04 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:04 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview-150x150.png) to a remote server (server_1).
+18-09-2022 20:09:04 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:04 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview-236x300.png) to a remote server (server_1).
+18-09-2022 20:09:04 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:04 [ntodorovic.wppsbootcamp.com][debug] New queue created #60, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;333&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:61929,&quot;final_size&quot;:32662,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:49524,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531744}
+18-09-2022 20:09:04 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+18-09-2022 20:09:05 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:05 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:09:05 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:05 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:09:05 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:05 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-300x200.jpg) to a remote server (server_1).
+18-09-2022 20:09:05 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:05 [ntodorovic.wppsbootcamp.com][debug] New queue created #61, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;505&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:265490,&quot;final_size&quot;:265490,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:254883,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531745}
+18-09-2022 20:09:05 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview-1.png) to a remote server (server_1).
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview-1-150x150.png) to a remote server (server_1).
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/samuel-regan-asante-kyB2m75M6-M-unsplash-removebg-preview-1-236x300.png) to a remote server (server_1).
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][debug] New queue created #62, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;648&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:61929,&quot;final_size&quot;:32662,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:49524,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531746}
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:06 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE.png) to a remote server (server_1).
+18-09-2022 20:09:07 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:07 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE-150x150.png) to a remote server (server_1).
+18-09-2022 20:09:07 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:07 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE-262x300.png) to a remote server (server_1).
+18-09-2022 20:09:07 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:07 [ntodorovic.wppsbootcamp.com][debug] New queue created #63, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;658&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:141467,&quot;final_size&quot;:141467,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:126618,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531747}
+18-09-2022 20:09:07 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+18-09-2022 20:09:08 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:08 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/julian-myles-JRPu9rnNgH8-unsplash-scaled-e1663196711575.jpg) to a remote server (server_1).
+18-09-2022 20:09:08 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:08 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/julian-myles-JRPu9rnNgH8-unsplash-scaled-e1663196711575-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:09:08 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:08 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/julian-myles-JRPu9rnNgH8-unsplash-scaled-e1663196711575-239x300.jpg) to a remote server (server_1).
+18-09-2022 20:09:09 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:09 [ntodorovic.wppsbootcamp.com][debug] New queue created #64, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;694&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:397210,&quot;final_size&quot;:397210,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:384748,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531749}
+18-09-2022 20:09:09 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+18-09-2022 20:09:09 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:09 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/joseph-greve-Z4gJ27dgydo-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:09:09 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:09 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/joseph-greve-Z4gJ27dgydo-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/joseph-greve-Z4gJ27dgydo-unsplash-300x200.jpg) to a remote server (server_1).
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][debug] New queue created #65, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;764&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:487830,&quot;final_size&quot;:487830,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:466872,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531750}
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/stlca-2.png) to a remote server (server_1).
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/stlca-2-150x150.png) to a remote server (server_1).
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][debug] New queue created #66, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;796&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:4395,&quot;final_size&quot;:3154,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:3069,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531750}
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #1454). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1154x1600
+	-&gt; Relative path: 2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-scaled.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 216x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 739x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x1064, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1108x1536, MIME type: image/jpeg
+		-&gt; Type: 2048x2048, size: 1478x2048, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 1080x675, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image-single, size: 1080x1497, MIME type: image/jpeg
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth-large, size: 2309x1800, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--desktop, size: 1280x1774, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--tablet, size: 980x1358, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x665, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x832, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: variation_swatches_image_size, size: 50x50, MIME type: image/jpeg
+		-&gt; Type: variation_swatches_tooltip_size, size: 100x100, MIME type: image/jpeg
+
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][debug] New queue created #67, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1454&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531750}
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][error] Failed to process (url: https://ntodorovic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-scaled.jpg, path: /home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-scaled.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:10 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE-1.png) to a remote server (server_1).
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE-1-150x150.png) to a remote server (server_1).
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/XOCHAIRWHITE-1-262x300.png) to a remote server (server_1).
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][debug] New queue created #68, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1743&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:141467,&quot;final_size&quot;:141467,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:126618,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531751}
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][debug] New queue created #69, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1798&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:false,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;path\&quot;,\&quot;error_msg\&quot;:\&quot;Attachment cannot be optimized. File \\\&quot;(\\\/home\\\/ntodorovic\\\/public_html\\\/projekat\\\/wp-content\\\/uploads\\\/woocommerce-placeholder.png)\\\&quot; doesn't exist\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531751}
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][error] Failed to find original attachment #1798 located in *empty path*. Skipping optimization. This may be caused due to bug in wp_get_attachment_metadata() function, which returns false for attachment meta
+18-09-2022 20:09:11 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+18-09-2022 20:09:28 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:28 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-scaled.jpg) to a remote server (server_1).
+18-09-2022 20:09:28 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:29 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-150x150.jpg) to a remote server (server_1).
+18-09-2022 20:09:29 [ntodorovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 20:09:29 [ntodorovic.wppsbootcamp.com][info] Preparing to upload a file (/home/ntodorovic/public_html/projekat/wp-content/uploads/2022/09/sarah-dorweiler-7tFlUFGa7Dk-unsplash-216x300.jpg) to a remote server (server_1).
+18-09-2022 20:09:29 [ntodorovic.wppsbootcamp.com][debug] New queue created #70, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1454&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:356886,&quot;final_size&quot;:356886,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:354347,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531769}
+18-09-2022 20:09:29 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+18-09-2022 20:09:29 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:09:29 [ntodorovic.wppsbootcamp.com][debug] New queue created #71, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1798&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:false,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;path\&quot;,\&quot;error_msg\&quot;:\&quot;Attachment cannot be optimized. File \\\&quot;(\\\/home\\\/ntodorovic\\\/public_html\\\/projekat\\\/wp-content\\\/uploads\\\/woocommerce-placeholder.png)\\\&quot; doesn't exist\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531769}
+18-09-2022 20:09:29 [ntodorovic.wppsbootcamp.com][error] Failed to find original attachment #1798 located in *empty path*. Skipping optimization. This may be caused due to bug in wp_get_attachment_metadata() function, which returns false for attachment meta
+18-09-2022 20:09:29 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+18-09-2022 20:11:17 [ntodorovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 20:11:17 [ntodorovic.wppsbootcamp.com][debug] New queue created #72, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1798&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:false,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;path\&quot;,\&quot;error_msg\&quot;:\&quot;Attachment cannot be optimized. File \\\&quot;(\\\/home\\\/ntodorovic\\\/public_html\\\/projekat\\\/wp-content\\\/uploads\\\/woocommerce-placeholder.png)\\\&quot; doesn't exist\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663531877}
+18-09-2022 20:11:17 [ntodorovic.wppsbootcamp.com][error] Failed to find original attachment #1798 located in *empty path*. Skipping optimization. This may be caused due to bug in wp_get_attachment_metadata() function, which returns false for attachment meta
+18-09-2022 20:11:17 [ntodorovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+18-09-2022 20:11:26 [ntodorovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+18-09-2022 20:11:26 [ntodorovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
+18-09-2022 20:12:25 [ntodorovic.wppsbootcamp.com][info] Parent plugin start installation!
+18-09-2022 20:12:25 [ntodorovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 2
+																	-Plugin Version in DB: 1.5.6
+																	-Current Plugin Version: 1.5.6
+18-09-2022 20:12:25 [ntodorovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+18-09-2022 20:12:32 [ntodorovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+18-09-2022 20:12:32 [ntodorovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------

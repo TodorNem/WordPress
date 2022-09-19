@@ -1,0 +1,1 @@
+'U(c<?php exit; ?>a:1:{s:7:"content";a:7:{s:17:"_wp_page_template";a:1:{i:0;s:7:"default";}s:10:"_edit_lock";a:1:{i:0;s:12:"1663294597:1";}s:20:"_et_gb_content_width";a:1:{i:0;s:4:"1080";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:20:"_et_pb_post_hide_nav";a:1:{i:0;s:7:"default";}s:18:"_et_pb_page_layout";a:1:{i:0;s:13:"et_no_sidebar";}s:15:"_et_pb_side_nav";a:1:{i:0;s:3:"off";}}}

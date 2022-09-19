@@ -1,0 +1,1 @@
+'U(c<?php exit; ?>a:1:{s:7:"content";s:65:"/home/ntodorovic/public_html/projekat/wp-content/themes/Divi/core";}

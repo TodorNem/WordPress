@@ -1,0 +1,221 @@
+2022-09-16T09:46:09+00:00 ERROR Spec is invalid because a rule is invalid in feed
+2022-09-16T09:46:09+00:00 ERROR stdClass Object
+(
+    [type] => wcadmin_active_for
+    [operation] => >
+    [months] => 11
+)
+
+2022-09-16T09:46:09+00:00 ERROR stdClass Object
+(
+    [slug] => googlelistings_signals2022_hasGLA
+    [type] => marketing
+    [status] => unactioned
+    [is_snoozable] => 0
+    [source] => woocommerce.com
+    [locales] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [locale] => en_US
+                    [title] => Show off your products with Ads on Google
+                    [content] => You’re ready to grow with ads. Google optimizes for performance across your products; you only pay for results. If you’re new to Google, you can earn up to $500 in ad credits (T&amp;Cs apply). <a href="https://woocommerce.com/my-account/create-a-ticket/">Contact support</a> if you need guidance with Google Listings &amp; Ads.
+                )
+
+        )
+
+    [actions] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [name] => googlelistings_signals2022_hasGLA_click
+                    [locales] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [locale] => en_US
+                                    [label] => Connect Google Listings & Ads
+                                )
+
+                        )
+
+                    [url] => admin.php?page=wc-admin&path=marketing
+                    [url_is_admin_query] => 1
+                    [is_primary] => 1
+                    [status] => unactioned
+                )
+
+        )
+
+    [rules] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => publish_after_time
+                    [publish_after] => 2022-09-12 07:23:39
+                )
+
+            [1] => stdClass Object
+                (
+                    [type] => publish_before_time
+                    [publish_before] => 2022-10-12 23:59:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [type] => plugins_activated
+                    [plugins] => Array
+                        (
+                            [0] => google-listings-and-ads
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [type] => wcadmin_active_for
+                    [operation] => >
+                    [months] => 11
+                )
+
+            [4] => stdClass Object
+                (
+                    [type] => product_count
+                    [operation] => >
+                    [value] => 76
+                )
+
+            [5] => stdClass Object
+                (
+                    [type] => order_count
+                    [operation] => >
+                    [value] => 38
+                )
+
+            [6] => stdClass Object
+                (
+                    [type] => total_payments_value
+                    [days] => last_year
+                    [value] => 3700
+                    [operation] => >
+                )
+
+        )
+
+)
+
+2022-09-16T09:46:09+00:00 ERROR Spec is invalid because a rule is invalid in feed
+2022-09-16T09:46:09+00:00 ERROR stdClass Object
+(
+    [type] => wcadmin_active_for
+    [operation] => >
+    [months] => 11
+)
+
+2022-09-16T09:46:09+00:00 ERROR stdClass Object
+(
+    [slug] => googlelistings_signals2022_noGLA
+    [type] => marketing
+    [status] => unactioned
+    [is_snoozable] => 0
+    [source] => woocommerce.com
+    [locales] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [locale] => en_US
+                    [title] => Show off your products with Ads on Google
+                    [content] => You’re ready to grow with ads. Google optimizes for performance across your products; you only pay for results. If you’re new to Google, you can earn up to $500 in ad credits (T&amp;Cs apply). <a href="https://woocommerce.com/my-account/create-a-ticket/">Contact support</a> if you need guidance with Google Listings &amp; Ads.
+                )
+
+        )
+
+    [actions] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [name] => googlelistings_signals2022_noGLA
+                    [locales] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [locale] => en_US
+                                    [label] => Connect Google Listings & Ads
+                                )
+
+                        )
+
+                    [url] => https://woocommerce.com/products/google-listings-and-ads/?utm_medium=product&utm_source=inbox_note&utm_campaign=googlelistings_signals2022_noGLA
+                    [url_is_admin_query] => 
+                    [is_primary] => 1
+                    [status] => unactioned
+                )
+
+        )
+
+    [rules] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => publish_after_time
+                    [publish_after] => 2022-09-12 07:27:46
+                )
+
+            [1] => stdClass Object
+                (
+                    [type] => publish_before_time
+                    [publish_before] => 2022-10-12 23:59:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [type] => not
+                    [operand] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => plugins_activated
+                                    [plugins] => Array
+                                        (
+                                            [0] => google-listings-and-ads
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [type] => wcadmin_active_for
+                    [operation] => >
+                    [months] => 11
+                )
+
+            [4] => stdClass Object
+                (
+                    [type] => product_count
+                    [operation] => >
+                    [value] => 76
+                )
+
+            [5] => stdClass Object
+                (
+                    [type] => order_count
+                    [operation] => >
+                    [value] => 38
+                )
+
+            [6] => stdClass Object
+                (
+                    [type] => total_payments_value
+                    [days] => last_year
+                    [value] => 3700
+                    [operation] => >
+                )
+
+        )
+
+)
+

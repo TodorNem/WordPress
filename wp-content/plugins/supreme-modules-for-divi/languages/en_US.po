@@ -1,0 +1,629 @@
+# Copyright (C) 2018 Supreme Modules
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Supreme Modules 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/supreme-modules-"
+"for-divi\n"
+"POT-Creation-Date: 2018-09-23 20:10:59+00:00\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:16
+msgid "Supreme Flipbox"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:22
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:26
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:35
+#: includes/modules/GradientText/GradientText.php:21
+#: includes/modules/TextDivider/TextDivider.php:21
+#: includes/modules/TypingEffect/TypingEffect.php:22
+msgid "Text"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:66
+msgid "Flipbox Effect"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:71
+msgid "Flip Left"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:72
+msgid "Flip Right"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:73
+msgid "Flip Up"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:74
+msgid "Flip Down"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:80
+msgid "Animation Speed (in s)"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:95
+#: includes/modules/TextDivider/TextDivider.php:155
+msgid "Height"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:19
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:20
+msgid "Flipbox Item"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:21
+msgid "Flipbox Item Settings"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:27
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:23
+msgid "Link"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:28
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:33
+msgid "Image & Icon"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:39
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:32
+msgid "Sizing"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:47
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:40
+msgid "Animation"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:51
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:44
+msgid "Attributes"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:63
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:203
+#: includes/modules/GradientText/GradientText.php:35
+#: includes/modules/TypingEffect/TypingEffect.php:38
+msgid "Title"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:81
+msgid "Body"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:96
+msgid "Subhead"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:131
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:321
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:22
+msgid "Image"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:141
+msgid "Image Box Shadow"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:160
+msgid "Button"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:192
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:443
+#: includes/modules/TextDivider/TextDivider.php:126
+msgid "Top"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:196
+#: includes/modules/TextDivider/TextDivider.php:96
+msgid "Left"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:198
+#: includes/modules/TextDivider/TextDivider.php:98
+msgid "Right"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:206
+msgid "Text entered here will appear as title."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:210
+msgid "Sub Title"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:213
+msgid "Text entered here will appear as subtitle."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:217
+msgid "Use Icon"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:221
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:272
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:299
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:382
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:136
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:308
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:324
+#: includes/modules/TypingEffect/TypingEffect.php:105
+msgid "No"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:222
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:273
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:300
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:383
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:137
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:309
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:323
+#: includes/modules/TypingEffect/TypingEffect.php:106
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:246
+msgid "Here you can choose whether icon set below should be used."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:250
+msgid "Icon"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:255
+msgid "Choose an icon to display with your blurb."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:260
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:262
+msgid "Here you can define a custom color for your icon."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:268
+msgid "Circle Icon"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:281
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:287
+msgid "Circle Color"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:289
+msgid "Here you can define a custom color for the icon circle."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:295
+msgid "Show Circle Border"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:305
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:313
+msgid "Circle Border Color"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:315
+msgid "Here you can define a custom color for the icon circle border."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:324
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:96
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:325
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:97
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:326
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:98
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:328
+msgid "Upload an image to display at the top of your blurb."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:332
+msgid "Image Alt Text"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:335
+msgid "Define the HTML ALT text for your image here."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:341
+msgid "Image/Icon Placement"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:347
+msgid "Here you can choose where to place the icon."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:351
+msgid "Content"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:354
+msgid "Content entered here will appear inside the module."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:358
+msgid "Image Width"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:378
+msgid "Use Icon Font Size"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:394
+msgid "Icon Font Size"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:412
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:415
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:419
+msgid "Button URL"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:422
+msgid "Input URL for your button."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:428
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:160
+msgid "Url Opens"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:432
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:164
+msgid "In The Same Window"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:433
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:165
+msgid "In The New Tab"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:436
+msgid "Choose whether your link opens in a new window or not"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:439
+msgid "Text Vertical Alignment"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:444
+#: includes/modules/TextDivider/TextDivider.php:97
+msgid "Center"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:445
+#: includes/modules/TextDivider/TextDivider.php:128
+msgid "Bottom"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:450
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be align to the top, vertically centered, or aligned to the "
+"bottom."
+msgstr ""
+
+#: includes/modules/GradientText/GradientText.php:15
+msgid "Supreme Gradient Text"
+msgstr ""
+
+#: includes/modules/GradientText/GradientText.php:113
+msgid "Gradient Text"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:15
+msgid "Supreme Image"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:16
+msgid "Supreme Images"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:24
+msgid "Transform & Rotation"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:29
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:30
+msgid "Alignment"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:104
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:108
+msgid "Image Alternative Text"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:115
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:120
+msgid "Image Title Text"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:127
+msgid "This defines the HTML Title text."
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:132
+msgid "Open in Lightbox"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:146
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:149
+msgid "Link URL"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:156
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:170
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:173
+msgid "Perspective"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:191
+msgid "Rotate Y"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:209
+msgid "Rotate X"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:227
+msgid "Rotate Z"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:245
+msgid "Image Overlay"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:249
+msgid "Off"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:250
+msgid "On"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:261
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the image"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:264
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:270
+msgid "Here you can define a custom color for the overlay icon"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:273
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:279
+msgid "Here you can define a custom color for the overlay"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:282
+msgid "Hover Icon Picker"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:290
+msgid "Here you can define a custom icon for the overlay"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:293
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:300
+msgid "Here you can choose the image alignment."
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:304
+msgid "Force Fullwidth"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:319
+msgid "Always Center Image On Mobile"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:15
+msgid "Supreme Text Divider"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:22
+msgid "Visibility"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:27
+#: includes/modules/TextDivider/TextDivider.php:106
+msgid "Color"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:28
+msgid "Styles"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:39
+msgid "Divider"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:84
+msgid "Divider Text"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:87
+msgid "The text of divider will appear in between the divider."
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:92
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:109
+msgid "This will adjust the color of the 1px divider line."
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:113
+msgid "Divider Style"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:122
+msgid "Divider Position"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:127
+msgid "Vertically Centered"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:135
+msgid "Divider Weight"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:145
+msgid "Text Gap"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:160
+msgid "Define how much space should be added below the divider."
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:16
+msgid "Supreme Typing"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:23
+msgid "Typing Options"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:28
+msgid "Typing Styles"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:91
+msgid "Typing Effect"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:94
+msgid ""
+"The title of your Typing Effect. Use \"|\" as a separator. eg Word One|Text "
+"Two|Divi 3"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:99
+msgid "Use Loop"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:108
+msgid "If enabled, typing effect will loop infinite."
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:112
+msgid "Typing Speed (in ms)"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:126
+msgid "Typing Backspeed (in ms)"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:140
+msgid "Back delay (in ms)"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:150
+msgid "Time before backspacing"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:154
+msgid "Cursor Color"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Supreme Modules"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://suprememodules.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Divi Supreme enhances the experience and features found on Divi and extend "
+"with custom and creative modules to help you build amazing websites."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://suprememodules.com/about-us/"
+msgstr ""

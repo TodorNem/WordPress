@@ -1,0 +1,45 @@
+.et-db #et-boc .et-fb-modules-list li.dsm_typing_effect:before,
+.et-db #et-boc .et-fb-modules-list li.dsm_facebook_feed:before,
+.et-db #et-boc .et-fb-modules-list li.dsm_embed_twitter_timeline:before,
+.et-db #et-boc .et-fb-modules-list li.dsm_text_badges:before,
+.et-db #et-boc .et-fb-modules-list li.dsm_business_hours:before,
+.et-db #et-boc .et-fb-modules-list li.dsm_icon_list:before,
+.et-db #et-boc .et-fb-modules-list li.dsm_shapes:before,
+.et-db #et-boc .et-fb-modules-list li.dsm_lottie:before {
+    font-family: ETmodules !important;
+}
+
+.et-db #et-boc .et-fb-modules-list li[class^="dsm"]:hover,
+.et-db #et-boc .et-fb-modules-list li[class^="dsm"]:focus,
+.et-db #et-boc .et-fb-modules-list li[class^="dsm"]:active,
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="dsm"]:hover,
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="dsm"]:focus,
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="dsm"]:active {
+    background: rgba(98, 0, 238, 0.78);
+    color: #fff;
+}
+
+.et-db #et-boc .et-fb-modules-list li[class^="dsm"],
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="dsm"] {
+    background: #6200EE;
+    color: #fff;
+    font-size: 10px;
+}
+
+.et-db #et-boc .et-fb-modules-list li[class^="dsm"] .et_module_title,
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="dsm"] .et_module_title {
+    margin-top: 10px;
+}
+
+.et-db #et-boc .et-fb-modules-list li[class^="dsm"]:before,
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="dsm"]:before {
+    color: #fff;
+}
+
+#dsm-vb-footer #page-container {
+    padding: 0;
+}
+
+#dsm-vb-footer .et_pb_post.dsm_header_footer {
+    margin-bottom: 0;
+}
